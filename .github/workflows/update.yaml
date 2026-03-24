@@ -6,6 +6,7 @@ on:
       - created # for test
   schedule:
       - cron: '35 1 * * *' # 09:35 Beijing time every day
+  workflow_dispatch:
 
 permissions:
   contents: write
