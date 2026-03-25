@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Model Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DualEdit: Mitigating Safety Fallback in LLM Backdoor Editing via Affirmation-Refusal Regulation](https://arxiv.org/abs/2506.13285v2)** | 2026-03-24 |  |
 | **[Easy3E: Feed-Forward 3D Asset Editing via Rectified Voxel Flow](https://arxiv.org/abs/2602.21499v2)** | 2026-03-22 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Page: https://ustc3dv.github.io/Easy3E/</p></details> |
 | **[Reversible Lifelong Model Editing via Semantic Routing-Based LoRA](https://arxiv.org/abs/2603.11239v2)** | 2026-03-19 |  |
 | **[Localizing and Editing Knowledge in Large Audio-Language Models](https://arxiv.org/abs/2603.14343v1)** | 2026-03-15 | <details><summary>Paper...</summary><p>Paper was submitted for review to Interspeech</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[NeuroSymb-MRG: Differentiable Abductive Reasoning with Active Uncertainty Minimization for Radiology Report Generation](https://arxiv.org/abs/2603.01756v1)** | 2026-03-02 | 12 pages, 1 figure |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
 | **[SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models](https://arxiv.org/abs/2503.07392v5)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Fine-tuning Done Right in Model Editing](https://arxiv.org/abs/2509.22072v4)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2026</p></details> |
 
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Steering LLMs for Culturally Localized Generation](https://arxiv.org/abs/2603.23301v1)** | 2026-03-24 | preprint |
+| **[Language Models Can Explain Visual Features via Steering](https://arxiv.org/abs/2603.22593v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[XNNTab -- Interpretable Neural Networks for Tabular Data using Sparse Autoencoders](https://arxiv.org/abs/2512.13442v2)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted at the 4th World Conference on eXplainable Artificial Intelligence (XAI-2026)</p></details> |
 | **[DSPA: Dynamic SAE Steering for Data-Efficient Preference Alignment](https://arxiv.org/abs/2603.21461v1)** | 2026-03-23 |  |
 | **[Sparse but not Simpler: A Multi-Level Interpretability Analysis of Vision Transformers](https://arxiv.org/abs/2603.15919v2)** | 2026-03-22 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Do Language Models Encode Semantic Relations? Probing and Sparse Feature Analysis](https://arxiv.org/abs/2603.17624v1)** | 2026-03-18 | <details><summary>accep...</summary><p>accepted at LREC 2026</p></details> |
 | **[Fundamental Limits of Neural Network Sparsification: Evidence from Catastrophic Interpretability Collapse](https://arxiv.org/abs/2603.18056v1)** | 2026-03-18 |  |
 | **[Target Concept Tuning Improves Extreme Weather Forecasting](https://arxiv.org/abs/2603.19325v1)** | 2026-03-17 |  |
-| **[Capability-Guided Compression: Toward Interpretability-Aware Budget Allocation for Large Language Models](https://arxiv.org/abs/2603.16440v1)** | 2026-03-17 |  |
-| **[Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits](https://arxiv.org/abs/2603.16335v1)** | 2026-03-17 | 14 pages, 3 figures |
 
