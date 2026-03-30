@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 30, 2026
+title: Latest 15 Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v2)** | 2026-03-27 |  |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
 | **[Disentangling Knowledge Representations for Large Language Model Editing](https://arxiv.org/abs/2505.18774v2)** | 2026-03-25 | ICLR 2026 |
 | **[Massive Editing for Large Language Models Based on Dynamic Weight Generation](https://arxiv.org/abs/2512.14395v4)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
@@ -40,11 +41,14 @@ labels: documentation
 | **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/abs/2510.07896v3)** | 2026-03-09 | Accepted by ICLR2026 |
 | **[SUIT: Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502v3)** | 2026-03-02 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 17 tables</p></details> |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
-| **[Tracing and Reversing Edits in LLMs](https://arxiv.org/abs/2505.20819v2)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Human Cognition to Neural Activations: Probing the Computational Primitives of Spatial Reasoning in LLMs](https://arxiv.org/abs/2603.26323v1)** | 2026-03-27 |  |
+| **[XNNTab -- Interpretable Neural Networks for Tabular Data using Sparse Autoencoders](https://arxiv.org/abs/2512.13442v3)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted at the 4th World Conference on eXplainable Artificial Intelligence (XAI-2026)</p></details> |
+| **[A Universal Vibe? Finding and Controlling Language-Agnostic Informal Register with SAEs](https://arxiv.org/abs/2603.26236v1)** | 2026-03-27 |  |
+| **[Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs](https://arxiv.org/abs/2602.19157v2)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted in PAKDD 2026 special session on Data Science :Foundation and Applications</p></details> |
 | **[How Pruning Reshapes Features: Sparse Autoencoder Analysis of Weight-Pruned Language Models](https://arxiv.org/abs/2603.25325v1)** | 2026-03-26 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 6 tables. Analysis covers Gemma 3 1B, Gemma 2 2B, and Llama 3.2 1B across 22 experimental runs. Code and data available at https://github.com/hborobia/sae-pruning-paper</p></details> |
 | **[Towards Interpretable Deep Neural Networks for Tabular Data](https://arxiv.org/abs/2509.08617v2)** | 2026-03-26 | <details><summary>Prese...</summary><p>Presented at 3rd Workshop on Unifying Representations in Neural Models (UniReps) at NeuRIPS 2025</p></details> |
 | **[Sparse Visual Thought Circuits in Vision-Language Models](https://arxiv.org/abs/2603.25075v1)** | 2026-03-26 |  |
@@ -52,12 +56,8 @@ labels: documentation
 | **[Language Models Can Explain Visual Features via Steering](https://arxiv.org/abs/2603.22593v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[Sparse Autoencoders for Interpretable Medical Image Representation Learning](https://arxiv.org/abs/2603.23794v1)** | 2026-03-24 | 11 pages, 4 figures |
 | **[Steering LLMs for Culturally Localized Generation](https://arxiv.org/abs/2603.23301v1)** | 2026-03-24 | preprint |
-| **[XNNTab -- Interpretable Neural Networks for Tabular Data using Sparse Autoencoders](https://arxiv.org/abs/2512.13442v2)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted at the 4th World Conference on eXplainable Artificial Intelligence (XAI-2026)</p></details> |
 | **[DSPA: Dynamic SAE Steering for Data-Efficient Preference Alignment](https://arxiv.org/abs/2603.21461v1)** | 2026-03-23 |  |
 | **[Sparse but not Simpler: A Multi-Level Interpretability Analysis of Vision Transformers](https://arxiv.org/abs/2603.15919v2)** | 2026-03-22 |  |
 | **[Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models](https://arxiv.org/abs/2603.19233v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted to Multimodal Intelligence Workshop @ ICLR</p></details> |
 | **[Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](https://arxiv.org/abs/2603.19183v1)** | 2026-03-19 | 25 pages, 12 figures |
-| **[SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models](https://arxiv.org/abs/2603.19028v1)** | 2026-03-19 | <details><summary>CVPR ...</summary><p>CVPR Findings 2026. Project website: https://sparse-embedding-modulation.github.io/</p></details> |
-| **[Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: A Case Study on Accent Information](https://arxiv.org/abs/2603.18359v1)** | 2026-03-18 |  |
-| **[Interpretability without actionability: mechanistic methods cannot correct language model errors despite near-perfect internal representations](https://arxiv.org/abs/2603.18353v1)** | 2026-03-18 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 10 tables. Code available at https://github.com/sanjaybasu/interpretability-triage</p></details> |
 
