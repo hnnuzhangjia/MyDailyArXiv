@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2026
+title: Latest 15 Papers - April 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Knowledge Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443v1)** | 2026-04-01 | 21 pages |
 | **[KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models](https://arxiv.org/abs/2603.29689v1)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted by IEEE PacificVis 2026 (TVCG Journal Track)</p></details> |
 | **[Golden Layers and Where to Find Them: Improved Knowledge Editing for Large Language Models Via Layer Gradient Analysis](https://arxiv.org/abs/2602.20207v2)** | 2026-03-27 |  |
 | **[KnowledgeSmith: Uncovering Knowledge Updating in LLMs with Model Editing and Unlearning](https://arxiv.org/abs/2510.02392v3)** | 2026-03-25 | ICLR 2026 |
@@ -40,11 +41,11 @@ labels: documentation
 | **[SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models](https://arxiv.org/abs/2510.16917v2)** | 2026-03-15 | <details><summary>Work ...</summary><p>Work in progress. Resources: https://github.com/ckyang1124/SAKE</p></details> |
 | **[LLLMs: A Data-Driven Survey of Evolving Research on Limitations of Large Language Models](https://arxiv.org/abs/2505.19240v4)** | 2026-03-12 | <details><summary>ACM C...</summary><p>ACM Computing Surveys (CSUR); 56 pages</p></details> |
 | **[ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual Recall](https://arxiv.org/abs/2510.07896v3)** | 2026-03-09 | Accepted by ICLR2026 |
-| **[SUIT: Knowledge Editing with Subspace-Aware Key-Value Mappings](https://arxiv.org/abs/2509.24502v3)** | 2026-03-02 | <details><summary>31 pa...</summary><p>31 pages, 13 figures, 17 tables</p></details> |
 
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443v1)** | 2026-04-01 | 21 pages |
 | **[Do Language Models Encode Semantic Relations? Probing and Sparse Feature Analysis](https://arxiv.org/abs/2603.17624v2)** | 2026-03-31 | <details><summary>accep...</summary><p>accepted at LREC 2026</p></details> |
 | **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v5)** | 2026-03-31 | <details><summary>There...</summary><p>There are some experimental error we are looking into to resolve</p></details> |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v3)** | 2026-03-31 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Sparse Visual Thought Circuits in Vision-Language Models](https://arxiv.org/abs/2603.25075v1)** | 2026-03-26 |  |
 | **[Discriminative reconstruction via simultaneous dense and sparse coding](https://arxiv.org/abs/2006.09534v4)** | 2026-03-26 | <details><summary>27 pa...</summary><p>27 pages. Made changes to improve the clarity and presentation of the paper</p></details> |
 | **[Language Models Can Explain Visual Features via Steering](https://arxiv.org/abs/2603.22593v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Sparse Autoencoders for Interpretable Medical Image Representation Learning](https://arxiv.org/abs/2603.23794v1)** | 2026-03-24 | 11 pages, 4 figures |
 
