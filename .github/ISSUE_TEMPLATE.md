@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 06, 2026
+title: Latest 15 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Sparse Autoencoder
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPG: Sparse-Projected Guides with Sparse Autoencoders for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2604.02871v1)** | 2026-04-03 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 9 tables</p></details> |
+| **[Finding Belief Geometries with Sparse Autoencoders](https://arxiv.org/abs/2604.02685v1)** | 2026-04-03 |  |
 | **[Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality](https://arxiv.org/abs/2512.10720v2)** | 2026-04-02 |  |
 | **[Automatic Image-Level Morphological Trait Annotation for Organismal Images](https://arxiv.org/abs/2604.01619v1)** | 2026-04-02 | ICLR 2026 |
 | **[Polysemanticity or Polysemy? Lexical Identity Confounds Superposition Metrics](https://arxiv.org/abs/2604.00443v1)** | 2026-04-01 | 21 pages |
@@ -58,6 +60,4 @@ labels: documentation
 | **[A Universal Vibe? Finding and Controlling Language-Agnostic Informal Register with SAEs](https://arxiv.org/abs/2603.26236v1)** | 2026-03-27 |  |
 | **[Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs](https://arxiv.org/abs/2602.19157v2)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted in PAKDD 2026 special session on Data Science :Foundation and Applications</p></details> |
 | **[How Pruning Reshapes Features: Sparse Autoencoder Analysis of Weight-Pruned Language Models](https://arxiv.org/abs/2603.25325v1)** | 2026-03-26 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 6 tables. Analysis covers Gemma 3 1B, Gemma 2 2B, and Llama 3.2 1B across 22 experimental runs. Code and data available at https://github.com/hborobia/sae-pruning-paper</p></details> |
-| **[Towards Interpretable Deep Neural Networks for Tabular Data](https://arxiv.org/abs/2509.08617v2)** | 2026-03-26 | <details><summary>Prese...</summary><p>Presented at 3rd Workshop on Unifying Representations in Neural Models (UniReps) at NeuRIPS 2025</p></details> |
-| **[Sparse Visual Thought Circuits in Vision-Language Models](https://arxiv.org/abs/2603.25075v1)** | 2026-03-26 |  |
 
