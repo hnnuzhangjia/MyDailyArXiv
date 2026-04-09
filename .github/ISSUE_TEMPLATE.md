@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking Model Efficiency: Multi-Agent Inference with Large Models](https://arxiv.org/abs/2604.04929v1)** | 2026-04-06 |  |
-| **[Comparing Human Oversight Strategies for Computer-Use Agents](https://arxiv.org/abs/2604.04918v1)** | 2026-04-06 |  |
-| **[Analyzing Symbolic Properties for DRL Agents in Systems and Networking](https://arxiv.org/abs/2604.04914v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted in ACM SIGMETRICS'26</p></details> |
-| **[FileGram: Grounding Agent Personalization in File-System Behavioral Traces](https://arxiv.org/abs/2604.04901v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project Page: https://filegram.choiszt.com, Code: https://github.com/synvo-ai/FileGram</p></details> |
-| **[Agentic Federated Learning: The Future of Distributed Training Orchestration](https://arxiv.org/abs/2604.04895v1)** | 2026-04-06 |  |
-| **[DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing](https://arxiv.org/abs/2604.04875v1)** | 2026-04-06 |  |
-| **[Synthetic Sandbox for Training Machine Learning Engineering Agents](https://arxiv.org/abs/2604.04872v1)** | 2026-04-06 | <details><summary>28 pa...</summary><p>28 pages, 9 tables, 8 figures</p></details> |
-| **[MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents](https://arxiv.org/abs/2604.04853v1)** | 2026-04-06 | <details><summary>18 pa...</summary><p>18 pages, 16 tables, 3 figures</p></details> |
-| **[KLong: Training LLM Agent for Extremely Long-horizon Tasks](https://arxiv.org/abs/2602.17547v2)** | 2026-04-06 |  |
-| **[ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture](https://arxiv.org/abs/2604.04820v1)** | 2026-04-06 | <details><summary>This ...</summary><p>This open-source AI agent interaction protocol (ANX) is benchmarked against existing protocols (MCP, A2A, ANP, OpenCLI, SkillWeaver, CHEQ, COLLAB-LLM) across four dimensions: tooling, discovery, security, and multi-agent SOP collaboration. Code: https://github.com/mountorc/anx-protocol</p></details> |
-| **[Large Language Model Guided Incentive Aware Reward Design for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2603.24324v3)** | 2026-04-06 |  |
-| **[DoubleAgents: Human-Agent Alignment in a Socially Embedded Workflow](https://arxiv.org/abs/2509.12626v3)** | 2026-04-06 | 21 pages, 10 figures |
-| **[SkillX: Automatically Constructing Skill Knowledge Bases for Agents](https://arxiv.org/abs/2604.04804v1)** | 2026-04-06 | Work in progress |
-| **[Multi-Agent Environments for Vehicle Routing Problems](https://arxiv.org/abs/2411.14411v2)** | 2026-04-06 |  |
-| **[Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw](https://arxiv.org/abs/2604.04759v1)** | 2026-04-06 |  |
+| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
+| **[Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions](https://arxiv.org/abs/2604.07277v1)** | 2026-04-08 |  |
+| **[Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent](https://arxiv.org/abs/2604.07269v1)** | 2026-04-08 |  |
+| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](https://arxiv.org/abs/2507.22025v4)** | 2026-04-08 |  |
+| **[How Much LLM Does a Self-Revising Agent Actually Need?](https://arxiv.org/abs/2604.07236v1)** | 2026-04-08 | WIP |
+| **[Gym-V: A Unified Vision Environment System for Agentic Vision Research](https://arxiv.org/abs/2603.15432v3)** | 2026-04-08 |  |
+| **[Designing for Accountable Agents: a Viewpoint](https://arxiv.org/abs/2604.07204v1)** | 2026-04-08 |  |
+| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
+| **[On the Uncertainty of Large Language Model-Based Multi-Agent Systems](https://arxiv.org/abs/2602.04234v3)** | 2026-04-08 | arXiv preprint |
+| **[Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization](https://arxiv.org/abs/2604.07165v1)** | 2026-04-08 |  |
+| **[Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.07146v1)** | 2026-04-08 |  |
+| **[Energy Saving for Cell-Free Massive MIMO Networks: A Multi-Agent Deep Reinforcement Learning Approach](https://arxiv.org/abs/2604.07133v1)** | 2026-04-08 |  |
+| **[Emergence of Internal State-Modulated Swarming in Multi-Agent Patch Foraging System](https://arxiv.org/abs/2510.18886v2)** | 2026-04-08 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 1 table, 1 algorithm</p></details> |
+| **[Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176v3)** | 2026-04-08 | <details><summary>This ...</summary><p>This paper has been accepted by the IEEE 22nd International Wireless Communications & Mobile Computing Conference (IWCMC 2026, Shanghai, China)</p></details> |
+| **[AV-SQL: Decomposing Complex Text-to-SQL Queries with Agentic Views](https://arxiv.org/abs/2604.07041v1)** | 2026-04-08 |  |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,7 +45,12 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion-based Evolutionary Optimization for 3D Multi-Objective Molecular Generation](https://arxiv.org/abs/2505.11037v4)** | 2026-04-06 |  |
+| **[Diffusion-based Evolutionary Optimization for 3D Multi-Objective Molecular Generation](https://arxiv.org/abs/2505.11037v5)** | 2026-04-08 |  |
+| **[QNAS: A Neural Architecture Search Framework for Accurate and Efficient Quantum Neural Networks](https://arxiv.org/abs/2604.07013v1)** | 2026-04-08 | <details><summary>To ap...</summary><p>To appear at the IEEE International Joint Conference on Neural Networks (IJCNN), Maastricht, The Netherlands, June 2026</p></details> |
+| **[Block-Bench: A Framework for Controllable and Transparent Discrete Optimization Benchmarking](https://arxiv.org/abs/2604.06973v1)** | 2026-04-08 |  |
+| **[TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design](https://arxiv.org/abs/2604.06747v1)** | 2026-04-08 |  |
+| **[Multi-objective Evolutionary Merging Enables Efficient Reasoning Models](https://arxiv.org/abs/2604.06465v1)** | 2026-04-07 |  |
+| **[MOELIGA: a multi-objective evolutionary approach for feature selection with local improvement](https://arxiv.org/abs/2603.20934v2)** | 2026-04-07 | <details><summary>49 pa...</summary><p>49 pages, 9 figures, 4 tables</p></details> |
 | **[Ranking Constraints via Topological Dual-Directional Search in Evolutionary Multi-Objective Optimization](https://arxiv.org/abs/2604.04724v1)** | 2026-04-06 |  |
 | **[One Model for All: Multi-Objective Controllable Language Models](https://arxiv.org/abs/2604.04497v1)** | 2026-04-06 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (03/2026): https://openreview.net/forum?id=qAM5PmvFYY</p></details> |
 | **[Explainable Model Routing for Agentic Workflows](https://arxiv.org/abs/2604.03527v1)** | 2026-04-04 | <details><summary>ACM C...</summary><p>ACM CHI 2026 Human-Centered Explainable AI (HCXAI) Workshop (Spotlight)</p></details> |
@@ -55,9 +60,4 @@ labels: documentation
 | **[Modeling Multi-Objective Tradeoffs with Monotonic Utility Functions](https://arxiv.org/abs/2412.06154v2)** | 2026-04-01 | <details><summary>The 2...</summary><p>The 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026)</p></details> |
 | **[Approximating Pareto Frontiers in Stochastic Multi-Objective Optimization via Hashing and Randomization](https://arxiv.org/abs/2604.01098v1)** | 2026-04-01 |  |
 | **[A Hierarchical Importance-Guided Multi-objective Evolutionary Framework for Deep Neural Network Pruning](https://arxiv.org/abs/2604.01076v1)** | 2026-04-01 |  |
-| **[A Decoupled Basis-Vector-Driven Generative Framework for Dynamic Multi-Objective Optimization](https://arxiv.org/abs/2604.00508v1)** | 2026-04-01 |  |
-| **[Scalable AI-assisted Workflow Management for Detector Design Optimization Using Distributed Computing](https://arxiv.org/abs/2603.30014v1)** | 2026-03-31 |  |
-| **[mlr3mbo: Bayesian Optimization in R](https://arxiv.org/abs/2603.29730v1)** | 2026-03-31 |  |
-| **[Hardware-Algorithm Co-Optimization of Early-Exit Neural Networks for Multi-Core Edge Accelerators](https://arxiv.org/abs/2512.04705v2)** | 2026-03-31 |  |
-| **[Genetic algorithms for multi-omic feature selection: a comparative study in cancer survival analysis](https://arxiv.org/abs/2604.00065v1)** | 2026-03-31 |  |
 
