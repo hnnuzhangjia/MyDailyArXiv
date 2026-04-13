@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models](https://arxiv.org/abs/2604.08545v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project Page: https://Accio-Lab.github.io/Metis</p></details> |
-| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v1)** | 2026-04-09 |  |
-| **[PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents](https://arxiv.org/abs/2604.08529v1)** | 2026-04-09 |  |
-| **[ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://claw-bench.com</p></details> |
-| **[MolmoWeb: Open Visual Web Agent and Open Data for the Open Web](https://arxiv.org/abs/2604.08516v1)** | 2026-04-09 | <details><summary>https...</summary><p>https://allenai.org/blog/molmoweb</p></details> |
-| **[Visually-grounded Humanoid Agents](https://arxiv.org/abs/2604.08509v1)** | 2026-04-09 | <details><summary>Proje...</summary><p>Project page: https://alvinyh.github.io/VGHuman/</p></details> |
-| **[WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents](https://arxiv.org/abs/2601.21872v2)** | 2026-04-09 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. Extended version with additional experiments</p></details> |
-| **[Density-Driven Optimal Control: Convergence Guarantees for Stochastic LTI Multi-Agent Systems](https://arxiv.org/abs/2604.08495v1)** | 2026-04-09 |  |
-| **[Multi-agent Reach-avoid MDP via Potential Games and Low-rank Policy Structure](https://arxiv.org/abs/2410.17690v2)** | 2026-04-09 | 8 pages, 4 figures |
-| **[From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis](https://arxiv.org/abs/2604.08465v1)** | 2026-04-09 | 9 pages, 1 figure |
-| **[KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation](https://arxiv.org/abs/2604.08455v1)** | 2026-04-09 |  |
-| **[Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407v1)** | 2026-04-09 |  |
-| **[Let the Agent Steer: Closed-Loop Ranking Optimization via Influence Exchange](https://arxiv.org/abs/2603.27765v3)** | 2026-04-09 |  |
-| **[Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing](https://arxiv.org/abs/2604.08401v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by ACL2026 Main Conference</p></details> |
-| **[Awakening the Sleeping Agent: Lean-Specific Agentic Data Reactivates General Tool Use in Goedel Prover](https://arxiv.org/abs/2604.08388v1)** | 2026-04-09 |  |
+| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v2)** | 2026-04-10 |  |
+| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
+| **[Semantic Rate-Distortion for Bounded Multi-Agent Communication: Capacity-Derived Semantic Spaces and the Communication Cost of Alignment](https://arxiv.org/abs/2604.09521v1)** | 2026-04-10 | <details><summary>34 pa...</summary><p>34 pages, 13 figures. Code: https://github.com/alch3mistdev/semantic-rate-distortion</p></details> |
+| **[VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning](https://arxiv.org/abs/2604.09508v1)** | 2026-04-10 |  |
+| **[EigentSearch-Q+: Enhancing Deep Research Agents with Structured Reasoning Tools](https://arxiv.org/abs/2604.07927v2)** | 2026-04-10 |  |
+| **[Risk-seeking conservative policy iteration with agent-state based policies for Dec-POMDPs with guaranteed convergence](https://arxiv.org/abs/2604.09495v1)** | 2026-04-10 |  |
+| **[Process Reward Agents for Steering Knowledge-Intensive Reasoning](https://arxiv.org/abs/2604.09482v1)** | 2026-04-10 |  |
+| **[Agentic Jackal: Live Execution and Semantic Value Grounding for Text-to-JQL](https://arxiv.org/abs/2604.09470v1)** | 2026-04-10 |  |
+| **[From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2604.09459v1)** | 2026-04-10 |  |
+| **[Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces](https://arxiv.org/abs/2603.21692v2)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 2 tables, 1 figure, preprint, v2: adds co-author and transport-layer verification mechanism</p></details> |
+| **[Multi-agent Adaptive Mechanism Design](https://arxiv.org/abs/2512.21794v3)** | 2026-04-10 |  |
+| **[Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443v1)** | 2026-04-10 |  |
+| **[Adaptive Tuning of Parameterized Traffic Controllers via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.07417v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted for presentation and publication in the proceedings of the 2026 European Control Conference (ECC)</p></details> |
+| **[Do AI Coding Agents Log Like Humans? An Empirical Study](https://arxiv.org/abs/2604.09409v1)** | 2026-04-10 |  |
+| **[HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?](https://arxiv.org/abs/2604.09408v1)** | 2026-04-10 |  |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSMO-ABSA: Multi-Scale and Multi-Objective Optimization for Cross-Lingual Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2502.13718v2)** | 2026-04-10 | ACL 2026 |
+| **[SkillMOO: Multi-Objective Optimization of Agent Skills for Software Engineering](https://arxiv.org/abs/2604.09297v1)** | 2026-04-10 |  |
 | **[Robust Multi-Objective Optimization for Bicycle Rebalancing in Shared Mobility Systems](https://arxiv.org/abs/2604.08296v1)** | 2026-04-09 |  |
 | **[Exploration of Pareto-preserving Search Space Transformations in Multi-objective Test Functions](https://arxiv.org/abs/2604.08173v1)** | 2026-04-09 |  |
 | **[Investigation of Automated Design of Quantum Circuits for Imaginary Time Evolution Methods Using Deep Reinforcement Learning](https://arxiv.org/abs/2604.07951v1)** | 2026-04-09 | 11 pages, 11 figures |
@@ -58,6 +60,4 @@ labels: documentation
 | **[MOELIGA: a multi-objective evolutionary approach for feature selection with local improvement](https://arxiv.org/abs/2603.20934v2)** | 2026-04-07 | <details><summary>49 pa...</summary><p>49 pages, 9 figures, 4 tables</p></details> |
 | **[Ranking Constraints via Topological Dual-Directional Search in Evolutionary Multi-Objective Optimization](https://arxiv.org/abs/2604.04724v1)** | 2026-04-06 |  |
 | **[One Model for All: Multi-Objective Controllable Language Models](https://arxiv.org/abs/2604.04497v1)** | 2026-04-06 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (03/2026): https://openreview.net/forum?id=qAM5PmvFYY</p></details> |
-| **[Explainable Model Routing for Agentic Workflows](https://arxiv.org/abs/2604.03527v1)** | 2026-04-04 | <details><summary>ACM C...</summary><p>ACM CHI 2026 Human-Centered Explainable AI (HCXAI) Workshop (Spotlight)</p></details> |
-| **[A Comprehensive Framework for Long-Term Resiliency Investment Planning under Extreme Weather Uncertainty for Electric Utilities](https://arxiv.org/abs/2604.02504v1)** | 2026-04-02 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, submission to PowerUp 2026 conference</p></details> |
 
