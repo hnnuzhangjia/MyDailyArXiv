@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2026
+title: Latest 15 Papers - April 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v2)** | 2026-04-10 |  |
-| **[Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL](https://arxiv.org/abs/2604.09523v1)** | 2026-04-10 | <details><summary>26 pa...</summary><p>26 pages, 14 figures, 5 tables</p></details> |
-| **[Semantic Rate-Distortion for Bounded Multi-Agent Communication: Capacity-Derived Semantic Spaces and the Communication Cost of Alignment](https://arxiv.org/abs/2604.09521v1)** | 2026-04-10 | <details><summary>34 pa...</summary><p>34 pages, 13 figures. Code: https://github.com/alch3mistdev/semantic-rate-distortion</p></details> |
-| **[VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning](https://arxiv.org/abs/2604.09508v1)** | 2026-04-10 |  |
-| **[EigentSearch-Q+: Enhancing Deep Research Agents with Structured Reasoning Tools](https://arxiv.org/abs/2604.07927v2)** | 2026-04-10 |  |
-| **[Risk-seeking conservative policy iteration with agent-state based policies for Dec-POMDPs with guaranteed convergence](https://arxiv.org/abs/2604.09495v1)** | 2026-04-10 |  |
-| **[Process Reward Agents for Steering Knowledge-Intensive Reasoning](https://arxiv.org/abs/2604.09482v1)** | 2026-04-10 |  |
-| **[Agentic Jackal: Live Execution and Semantic Value Grounding for Text-to-JQL](https://arxiv.org/abs/2604.09470v1)** | 2026-04-10 |  |
-| **[From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2604.09459v1)** | 2026-04-10 |  |
-| **[Reasoning Provenance for Autonomous AI Agents: Structured Behavioral Analytics Beyond State Checkpoints and Execution Traces](https://arxiv.org/abs/2603.21692v2)** | 2026-04-10 | <details><summary>10 pa...</summary><p>10 pages, 2 tables, 1 figure, preprint, v2: adds co-author and transport-layer verification mechanism</p></details> |
-| **[Multi-agent Adaptive Mechanism Design](https://arxiv.org/abs/2512.21794v3)** | 2026-04-10 |  |
-| **[Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443v1)** | 2026-04-10 |  |
-| **[Adaptive Tuning of Parameterized Traffic Controllers via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.07417v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted for presentation and publication in the proceedings of the 2026 European Control Conference (ECC)</p></details> |
-| **[Do AI Coding Agents Log Like Humans? An Empirical Study](https://arxiv.org/abs/2604.09409v1)** | 2026-04-10 |  |
-| **[HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?](https://arxiv.org/abs/2604.09408v1)** | 2026-04-10 |  |
+| **[Detecting Safety Violations Across Many Agent Traces](https://arxiv.org/abs/2604.11806v1)** | 2026-04-13 | 35 pages, 17 figures |
+| **[ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection](https://arxiv.org/abs/2604.11790v1)** | 2026-04-13 |  |
+| **[ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://arxiv.org/abs/2604.11784v1)** | 2026-04-13 |  |
+| **[$λ_A$: A Typed Lambda Calculus for LLM Agent Composition](https://arxiv.org/abs/2604.11767v1)** | 2026-04-13 |  |
+| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v3)** | 2026-04-13 |  |
+| **[Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks](https://arxiv.org/abs/2604.11753v1)** | 2026-04-13 |  |
+| **[Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games](https://arxiv.org/abs/2604.11741v1)** | 2026-04-13 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Findings of ACL 2026</p></details> |
+| **[Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving](https://arxiv.org/abs/2604.11734v1)** | 2026-04-13 |  |
+| **[SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context](https://arxiv.org/abs/2604.11716v1)** | 2026-04-13 |  |
+| **[El Agente Estructural: An Artificially Intelligent Molecular Editor](https://arxiv.org/abs/2602.04849v2)** | 2026-04-13 |  |
+| **[DeepFleet: Multi-Agent Foundation Models for Mobile Robots](https://arxiv.org/abs/2508.08574v3)** | 2026-04-13 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 2 tables</p></details> |
+| **[Agentic Driving Coach: Robustness and Determinism of Agentic AI-Powered Human-in-the-Loop Cyber-Physical Systems](https://arxiv.org/abs/2604.11705v1)** | 2026-04-13 |  |
+| **[AIRA_2: Overcoming Bottlenecks in AI Research Agents](https://arxiv.org/abs/2603.26499v2)** | 2026-04-13 |  |
+| **[EA-Agent: A Structured Multi-Step Reasoning Agent for Entity Alignment](https://arxiv.org/abs/2604.11686v1)** | 2026-04-13 | <details><summary>ACL 2...</summary><p>ACL 2026,Main Conference</p></details> |
+| **[Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind](https://arxiv.org/abs/2604.11666v1)** | 2026-04-13 | <details><summary>First...</summary><p>First two authors contributed equally. Code: https://github.com/The-Inscrutable-X/AIDoubleAgentDefenders</p></details> |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,10 +45,12 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Preference-Agile Multi-Objective Optimization for Real-time Vehicle Dispatching](https://arxiv.org/abs/2604.10664v1)** | 2026-04-12 |  |
+| **[Exploration of Pareto-preserving Search Space Transformations in Multi-objective Test Functions](https://arxiv.org/abs/2604.08173v2)** | 2026-04-11 |  |
+| **[Optimizing Chlorination in Water Distribution Systems via Surrogate-assisted Neuroevolution](https://arxiv.org/abs/2602.07299v2)** | 2026-04-11 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, GECCO '26</p></details> |
 | **[MSMO-ABSA: Multi-Scale and Multi-Objective Optimization for Cross-Lingual Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2502.13718v2)** | 2026-04-10 | ACL 2026 |
 | **[SkillMOO: Multi-Objective Optimization of Agent Skills for Software Engineering](https://arxiv.org/abs/2604.09297v1)** | 2026-04-10 |  |
 | **[Robust Multi-Objective Optimization for Bicycle Rebalancing in Shared Mobility Systems](https://arxiv.org/abs/2604.08296v1)** | 2026-04-09 |  |
-| **[Exploration of Pareto-preserving Search Space Transformations in Multi-objective Test Functions](https://arxiv.org/abs/2604.08173v1)** | 2026-04-09 |  |
 | **[Investigation of Automated Design of Quantum Circuits for Imaginary Time Evolution Methods Using Deep Reinforcement Learning](https://arxiv.org/abs/2604.07951v1)** | 2026-04-09 | 11 pages, 11 figures |
 | **[TurboAgent: An LLM-Driven Autonomous Multi-Agent Framework for Turbomachinery Aerodynamic Design](https://arxiv.org/abs/2604.06747v2)** | 2026-04-09 |  |
 | **[HiMARS: Hybrid multi-objective algorithms for recommender systems](https://arxiv.org/abs/2604.07572v1)** | 2026-04-08 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Block-Bench: A Framework for Controllable and Transparent Discrete Optimization Benchmarking](https://arxiv.org/abs/2604.06973v1)** | 2026-04-08 |  |
 | **[Multi-objective Evolutionary Merging Enables Efficient Reasoning Models](https://arxiv.org/abs/2604.06465v1)** | 2026-04-07 |  |
 | **[MOELIGA: a multi-objective evolutionary approach for feature selection with local improvement](https://arxiv.org/abs/2603.20934v2)** | 2026-04-07 | <details><summary>49 pa...</summary><p>49 pages, 9 figures, 4 tables</p></details> |
-| **[Ranking Constraints via Topological Dual-Directional Search in Evolutionary Multi-Objective Optimization](https://arxiv.org/abs/2604.04724v1)** | 2026-04-06 |  |
-| **[One Model for All: Multi-Objective Controllable Language Models](https://arxiv.org/abs/2604.04497v1)** | 2026-04-06 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (03/2026): https://openreview.net/forum?id=qAM5PmvFYY</p></details> |
 
