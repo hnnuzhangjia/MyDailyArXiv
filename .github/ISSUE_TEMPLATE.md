@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2026
+title: Latest 15 Papers - April 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Detecting Safety Violations Across Many Agent Traces](https://arxiv.org/abs/2604.11806v1)** | 2026-04-13 | 35 pages, 17 figures |
-| **[ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection](https://arxiv.org/abs/2604.11790v1)** | 2026-04-13 |  |
-| **[ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://arxiv.org/abs/2604.11784v1)** | 2026-04-13 |  |
-| **[$λ_A$: A Typed Lambda Calculus for LLM Agent Composition](https://arxiv.org/abs/2604.11767v1)** | 2026-04-13 |  |
-| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v3)** | 2026-04-13 |  |
-| **[Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks](https://arxiv.org/abs/2604.11753v1)** | 2026-04-13 |  |
-| **[Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games](https://arxiv.org/abs/2604.11741v1)** | 2026-04-13 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Findings of ACL 2026</p></details> |
-| **[Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving](https://arxiv.org/abs/2604.11734v1)** | 2026-04-13 |  |
-| **[SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context](https://arxiv.org/abs/2604.11716v1)** | 2026-04-13 |  |
-| **[El Agente Estructural: An Artificially Intelligent Molecular Editor](https://arxiv.org/abs/2602.04849v2)** | 2026-04-13 |  |
-| **[DeepFleet: Multi-Agent Foundation Models for Mobile Robots](https://arxiv.org/abs/2508.08574v3)** | 2026-04-13 | <details><summary>27 pa...</summary><p>27 pages, 10 figures, 2 tables</p></details> |
-| **[Agentic Driving Coach: Robustness and Determinism of Agentic AI-Powered Human-in-the-Loop Cyber-Physical Systems](https://arxiv.org/abs/2604.11705v1)** | 2026-04-13 |  |
-| **[AIRA_2: Overcoming Bottlenecks in AI Research Agents](https://arxiv.org/abs/2603.26499v2)** | 2026-04-13 |  |
-| **[EA-Agent: A Structured Multi-Step Reasoning Agent for Entity Alignment](https://arxiv.org/abs/2604.11686v1)** | 2026-04-13 | <details><summary>ACL 2...</summary><p>ACL 2026,Main Conference</p></details> |
-| **[Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind](https://arxiv.org/abs/2604.11666v1)** | 2026-04-13 | <details><summary>First...</summary><p>First two authors contributed equally. Code: https://github.com/The-Inscrutable-X/AIDoubleAgentDefenders</p></details> |
+| **[Agentic Discovery with Active Hypothesis Exploration for Visual Recognition](https://arxiv.org/abs/2604.12999v1)** | 2026-04-14 |  |
+| **[$λ_A$: A Typed Lambda Calculus for LLM Agent Composition](https://arxiv.org/abs/2604.11767v2)** | 2026-04-14 |  |
+| **[Parallax: Why AI Agents That Think Must Never Act](https://arxiv.org/abs/2604.12986v1)** | 2026-04-14 | <details><summary>20 pa...</summary><p>20 pages, 1 figure, 5 tables. Open-source reference implementation: https://github.com/openparallax/openparallax. Documentation: https://docs.openparallax.dev. Feedback welcome via email or GitHub issues</p></details> |
+| **[Cycle-Consistent Search: Question Reconstructability as a Proxy Reward for Search Agent Training](https://arxiv.org/abs/2604.12967v1)** | 2026-04-14 |  |
+| **[Drawing on Memory: Dual-Trace Encoding Improves Cross-Session Recall in LLM Agents](https://arxiv.org/abs/2604.12948v1)** | 2026-04-14 | <details><summary>16 pa...</summary><p>16 pages, 2 tables, 2 figures</p></details> |
+| **[Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety](https://arxiv.org/abs/2502.05206v6)** | 2026-04-14 | <details><summary>706 p...</summary><p>706 papers, 60 pages, 3 figures, 14 tables; GitHub: https://github.com/xingjunm/Awesome-Large-Model-Safety</p></details> |
+| **[Towards Long-horizon Agentic Multimodal Search](https://arxiv.org/abs/2604.12890v1)** | 2026-04-14 |  |
+| **[LIFE -- an energy efficient advanced continual learning agentic AI framework for frontier systems](https://arxiv.org/abs/2604.12874v1)** | 2026-04-14 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 4 tables</p></details> |
+| **[QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence](https://arxiv.org/abs/2604.12867v1)** | 2026-04-14 |  |
+| **[No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning](https://arxiv.org/abs/2601.06794v2)** | 2026-04-14 |  |
+| **[Many-Tier Instruction Hierarchy in LLM Agents](https://arxiv.org/abs/2604.09443v3)** | 2026-04-14 |  |
+| **[VULCAN: Vision-Language-Model Enhanced Multi-Agent Cooperative Navigation for Indoor Fire-Disaster Response](https://arxiv.org/abs/2604.12831v1)** | 2026-04-14 | <details><summary>INFOC...</summary><p>INFOCOM EIN Workshop 2026</p></details> |
+| **[Mobile GUI Agents under Real-world Threats: Are We There Yet?](https://arxiv.org/abs/2507.04227v2)** | 2026-04-14 |  |
+| **[EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution](https://arxiv.org/abs/2604.12776v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to the Main Conference of ACL 2026</p></details> |
+| **[A Multi-Agent Feedback System for Detecting and Describing News Events in Satellite Imagery](https://arxiv.org/abs/2604.12772v1)** | 2026-04-14 |  |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Balancing the exploration-exploitation trade-off in active learning for surrogate model-based reliability analysis via multi-objective optimization](https://arxiv.org/abs/2508.18170v2)** | 2026-04-14 |  |
+| **[NeuroPareto: Calibrated Acquisition for Costly Many-Goal Search in Vast Parameter Spaces](https://arxiv.org/abs/2602.03901v4)** | 2026-04-14 | 39 pages, 19 figures |
+| **[Scaffold-Conditioned Preference Triplets for Controllable Molecular Optimization with Large Language Models](https://arxiv.org/abs/2604.12350v1)** | 2026-04-14 |  |
 | **[Preference-Agile Multi-Objective Optimization for Real-time Vehicle Dispatching](https://arxiv.org/abs/2604.10664v1)** | 2026-04-12 |  |
 | **[Exploration of Pareto-preserving Search Space Transformations in Multi-objective Test Functions](https://arxiv.org/abs/2604.08173v2)** | 2026-04-11 |  |
 | **[Optimizing Chlorination in Water Distribution Systems via Surrogate-assisted Neuroevolution](https://arxiv.org/abs/2602.07299v2)** | 2026-04-11 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, GECCO '26</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Green-LLM: Optimal Workload Allocation for Environmentally-Aware Distributed Inference](https://arxiv.org/abs/2507.09942v3)** | 2026-04-08 | 8 pages, 15 figures |
 | **[Diffusion-based Evolutionary Optimization for 3D Multi-Objective Molecular Generation](https://arxiv.org/abs/2505.11037v5)** | 2026-04-08 |  |
 | **[QNAS: A Neural Architecture Search Framework for Accurate and Efficient Quantum Neural Networks](https://arxiv.org/abs/2604.07013v1)** | 2026-04-08 | <details><summary>To ap...</summary><p>To appear at the IEEE International Joint Conference on Neural Networks (IJCNN), Maastricht, The Netherlands, June 2026</p></details> |
-| **[Block-Bench: A Framework for Controllable and Transparent Discrete Optimization Benchmarking](https://arxiv.org/abs/2604.06973v1)** | 2026-04-08 |  |
-| **[Multi-objective Evolutionary Merging Enables Efficient Reasoning Models](https://arxiv.org/abs/2604.06465v1)** | 2026-04-07 |  |
-| **[MOELIGA: a multi-objective evolutionary approach for feature selection with local improvement](https://arxiv.org/abs/2603.20934v2)** | 2026-04-07 | <details><summary>49 pa...</summary><p>49 pages, 9 figures, 4 tables</p></details> |
 
