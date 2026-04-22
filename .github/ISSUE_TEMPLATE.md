@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://arxiv.org/abs/2604.18564v1)** | 2026-04-20 | 15 pages, 10 figures |
-| **[SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy](https://arxiv.org/abs/2604.18557v1)** | 2026-04-20 |  |
-| **[Inference-Time Distillation: Cost-Efficient Agents Without Fine-Tuning or Manual Prompt Engineering](https://arxiv.org/abs/2512.02543v3)** | 2026-04-20 | 21 pages, 4 figures |
-| **[ClawEnvKit: Automatic Environment Generation for Claw-Like Agents](https://arxiv.org/abs/2604.18543v1)** | 2026-04-20 |  |
-| **[SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents](https://arxiv.org/abs/2604.07791v3)** | 2026-04-20 | ACL 2026 |
-| **[MASS-RAG: Multi-Agent Synthesis Retrieval-Augmented Generation](https://arxiv.org/abs/2604.18509v1)** | 2026-04-20 | 19 pages |
-| **[QRAFTI: An Agentic Framework for Empirical Research in Quantitative Finance](https://arxiv.org/abs/2604.18500v1)** | 2026-04-20 |  |
-| **[ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/abs/2505.19897v3)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready Version</p></details> |
-| **[Designing Explainable Conversational Agentic Systems for Guaraní Speakers](https://arxiv.org/abs/2603.05743v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at HCXAI conference, ACM CHI 2026</p></details> |
-| **[Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems](https://arxiv.org/abs/2601.14662v2)** | 2026-04-20 | <details><summary>To be...</summary><p>To be published in ACL Main 2026</p></details> |
-| **[BridgeEQA: Virtual Embodied Agents for Real Bridge Inspections](https://arxiv.org/abs/2511.12676v2)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning](https://arxiv.org/abs/2604.18401v1)** | 2026-04-20 |  |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding](https://arxiv.org/abs/2604.19689v1)** | 2026-04-21 |  |
+| **[An AI Agent Execution Environment to Safeguard User Data](https://arxiv.org/abs/2604.19657v1)** | 2026-04-21 |  |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
+| **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793v3)** | 2026-04-21 | Technical Report |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories](https://arxiv.org/abs/2604.19606v1)** | 2026-04-21 | 25 pages, 5 figures |
+| **[Active Inference-Enabled Agentic Closed-Loop ISAC with Long-Horizon Planning](https://arxiv.org/abs/2604.19599v1)** | 2026-04-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and 1 table. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[TeamFusion: Supporting Open-ended Teamwork with Multi-Agent Systems](https://arxiv.org/abs/2604.19589v1)** | 2026-04-21 | 22 pages |
+| **[A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression](https://arxiv.org/abs/2604.19572v1)** | 2026-04-21 | 23 pages |
+| **[Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment](https://arxiv.org/abs/2604.19548v1)** | 2026-04-21 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference. Project page: https://unikcc.github.io/ReTAS/</p></details> |
+| **[Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems](https://arxiv.org/abs/2604.19540v1)** | 2026-04-21 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 2 listings, 1 table. MMP v0.2.3 specification at https://sym.bot/spec/mmp (CC BY 4.0). Reference implementations on npm (@sym-bot/sym, @sym-bot/mesh-channel; Apache 2.0)</p></details> |
+| **[Integrating Anomaly Detection into Agentic AI for Proactive Risk Management in Human Activity](https://arxiv.org/abs/2604.19538v1)** | 2026-04-21 | 6 pages, 3 figures |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v1)** | 2026-04-21 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Revac: A Social Deduction Reasoning Agent](https://arxiv.org/abs/2604.19523v1)** | 2026-04-21 |  |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Active Learning Falls Short: An Empirical Study on Chemical Reaction Extraction](https://arxiv.org/abs/2604.19335v1)** | 2026-04-21 |  |
 | **[Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design](https://arxiv.org/abs/2604.16279v1)** | 2026-04-17 |  |
 | **[Fast and Interpretable Protein Substructure Alignment via Optimal Transport](https://arxiv.org/abs/2510.11752v2)** | 2026-04-09 | ICLR 2026 |
 | **[FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](https://arxiv.org/abs/2510.02578v5)** | 2026-03-25 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Molecular Design beyond Training Data with Novel Extended Objective Functionals of Generative AI Models Driven by Quantum Annealing Computer](https://arxiv.org/abs/2602.15451v1)** | 2026-02-17 | 42 pages, 7 figures |
 | **[Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces](https://arxiv.org/abs/2412.11439v5)** | 2026-02-16 | <details><summary>34 pa...</summary><p>34 pages, 14 figures, 8 tables</p></details> |
 | **[Decomposed Direct Preference Optimization for Structure-Based Drug Design](https://arxiv.org/abs/2407.13981v3)** | 2026-02-10 | Accepted by TMLR |
-| **[General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design](https://arxiv.org/abs/2406.16821v3)** | 2026-02-10 |  |
 
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation](https://arxiv.org/abs/2507.06321v2)** | 2026-04-21 | <details><summary>16 pa...</summary><p>16 pages, 5 figures; published in AIAA SciTech Forum 2026, Paper 2026-1763</p></details> |
+| **[Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility](https://arxiv.org/abs/2604.19113v1)** | 2026-04-21 | 14 pages, 5 figures |
 | **[Barrier-enforced multi-objective optimization for direct point and sharp interval forecasting](https://arxiv.org/abs/2604.18492v1)** | 2026-04-20 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 3 tables</p></details> |
 | **[RosettaSearch: Multi-Objective Inference-Time Search for Protein Sequence Design](https://arxiv.org/abs/2604.17175v1)** | 2026-04-19 |  |
 | **[A phenotype-driven and evidence-governed framework for knowledge graph enrichment and hypotheses discovery in population data](https://arxiv.org/abs/2604.16982v1)** | 2026-04-18 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Exploration of Pareto-preserving Search Space Transformations in Multi-objective Test Functions](https://arxiv.org/abs/2604.08173v2)** | 2026-04-11 |  |
 | **[Optimizing Chlorination in Water Distribution Systems via Surrogate-assisted Neuroevolution](https://arxiv.org/abs/2602.07299v2)** | 2026-04-11 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, GECCO '26</p></details> |
 | **[MSMO-ABSA: Multi-Scale and Multi-Objective Optimization for Cross-Lingual Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2502.13718v2)** | 2026-04-10 | ACL 2026 |
-| **[SkillMOO: Multi-Objective Optimization of Agent Skills for Software Engineering](https://arxiv.org/abs/2604.09297v1)** | 2026-04-10 |  |
-| **[Robust Multi-Objective Optimization for Bicycle Rebalancing in Shared Mobility Systems](https://arxiv.org/abs/2604.08296v1)** | 2026-04-09 |  |
 
