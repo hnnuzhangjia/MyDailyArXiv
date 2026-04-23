@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding](https://arxiv.org/abs/2604.19689v1)** | 2026-04-21 |  |
-| **[An AI Agent Execution Environment to Safeguard User Data](https://arxiv.org/abs/2604.19657v1)** | 2026-04-21 |  |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v2)** | 2026-04-21 | <details><summary>v2 fi...</summary><p>v2 fixes a critical error in v1 related to calculation of Brier Index, and makes several important changes to the presentation</p></details> |
-| **[MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling](https://arxiv.org/abs/2511.11793v3)** | 2026-04-21 | Technical Report |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories](https://arxiv.org/abs/2604.19606v1)** | 2026-04-21 | 25 pages, 5 figures |
-| **[Active Inference-Enabled Agentic Closed-Loop ISAC with Long-Horizon Planning](https://arxiv.org/abs/2604.19599v1)** | 2026-04-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and 1 table. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[TeamFusion: Supporting Open-ended Teamwork with Multi-Agent Systems](https://arxiv.org/abs/2604.19589v1)** | 2026-04-21 | 22 pages |
-| **[A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression](https://arxiv.org/abs/2604.19572v1)** | 2026-04-21 | 23 pages |
-| **[Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment](https://arxiv.org/abs/2604.19548v1)** | 2026-04-21 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference. Project page: https://unikcc.github.io/ReTAS/</p></details> |
-| **[Mesh Memory Protocol: Semantic Infrastructure for Multi-Agent LLM Systems](https://arxiv.org/abs/2604.19540v1)** | 2026-04-21 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 2 listings, 1 table. MMP v0.2.3 specification at https://sym.bot/spec/mmp (CC BY 4.0). Reference implementations on npm (@sym-bot/sym, @sym-bot/mesh-channel; Apache 2.0)</p></details> |
-| **[Integrating Anomaly Detection into Agentic AI for Proactive Risk Management in Human Activity](https://arxiv.org/abs/2604.19538v1)** | 2026-04-21 | 6 pages, 3 figures |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v1)** | 2026-04-21 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
-| **[Revac: A Social Deduction Reasoning Agent](https://arxiv.org/abs/2604.19523v1)** | 2026-04-21 |  |
+| **[Synthesizing Multi-Agent Harnesses for Vulnerability Discovery](https://arxiv.org/abs/2604.20801v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[Explicit Trait Inference for Multi-Agent Coordination](https://arxiv.org/abs/2604.19278v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Main Conference</p></details> |
+| **[Explainable Iterative Data Visualisation Refinement via an LLM Agent](https://arxiv.org/abs/2604.15319v2)** | 2026-04-22 |  |
+| **[Supplement Generation Training for Enhancing Agentic Task Performance](https://arxiv.org/abs/2604.20727v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to the Findings of ACL 2026</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v2)** | 2026-04-22 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables. Complete benchmark and hunt traces available on request</p></details> |
+| **[Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization](https://arxiv.org/abs/2604.20714v1)** | 2026-04-22 |  |
+| **[EvolveSignal: A Large Language Model Powered Coding Agent for Discovering Traffic Signal Control Strategies](https://arxiv.org/abs/2509.03335v3)** | 2026-04-22 |  |
+| **[Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows](https://arxiv.org/abs/2604.20658v1)** | 2026-04-22 |  |
+| **[HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents](https://arxiv.org/abs/2604.18349v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: ACL 2026. Camera-ready version. 10 pages, 2 figures. Code: https://github.com/ZeroLoss-Lab/HiGMem</p></details> |
+| **[CHORUS: An Agentic Framework for Generating Realistic Deliberation Data](https://arxiv.org/abs/2604.20651v1)** | 2026-04-22 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at Engineering Applications and Advances of Artificial Intelligence 2026</p></details> |
+| **[Trust, Lies, and Long Memories: Emergent Social Dynamics and Reputation in Multi-Round Avalon with LLM Agents](https://arxiv.org/abs/2604.20582v1)** | 2026-04-22 |  |
+| **[DR. INFO at the Point of Care: A Prospective Pilot Study of Physician-Perceived Value of an Agentic AI Clinical Assistant](https://arxiv.org/abs/2604.16346v2)** | 2026-04-22 |  |
+| **[Ask Only When Needed: Proactive Retrieval from Memory and Skills for Experience-Driven Lifelong Agents](https://arxiv.org/abs/2604.20572v1)** | 2026-04-22 |  |
+| **[The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents](https://arxiv.org/abs/2511.03690v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at MLSys 2026</p></details> |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOA: Multi-Objective Alignment for Role-Playing Agents](https://arxiv.org/abs/2512.09756v2)** | 2026-04-22 |  |
 | **[Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation](https://arxiv.org/abs/2507.06321v2)** | 2026-04-21 | <details><summary>16 pa...</summary><p>16 pages, 5 figures; published in AIAA SciTech Forum 2026, Paper 2026-1763</p></details> |
 | **[Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility](https://arxiv.org/abs/2604.19113v1)** | 2026-04-21 | 14 pages, 5 figures |
 | **[Barrier-enforced multi-objective optimization for direct point and sharp interval forecasting](https://arxiv.org/abs/2604.18492v1)** | 2026-04-20 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 3 tables</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Preference-Agile Multi-Objective Optimization for Real-time Vehicle Dispatching](https://arxiv.org/abs/2604.10664v1)** | 2026-04-12 |  |
 | **[Exploration of Pareto-preserving Search Space Transformations in Multi-objective Test Functions](https://arxiv.org/abs/2604.08173v2)** | 2026-04-11 |  |
 | **[Optimizing Chlorination in Water Distribution Systems via Surrogate-assisted Neuroevolution](https://arxiv.org/abs/2602.07299v2)** | 2026-04-11 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, GECCO '26</p></details> |
-| **[MSMO-ABSA: Multi-Scale and Multi-Objective Optimization for Cross-Lingual Aspect-Based Sentiment Analysis](https://arxiv.org/abs/2502.13718v2)** | 2026-04-10 | ACL 2026 |
 
