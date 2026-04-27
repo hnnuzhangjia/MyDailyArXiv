@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
-| **[Speculative Actions: A Lossless Framework for Faster Agentic Systems](https://arxiv.org/abs/2510.04371v2)** | 2026-04-23 |  |
-| **[From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation](https://arxiv.org/abs/2604.21910v1)** | 2026-04-23 |  |
-| **[Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models](https://arxiv.org/abs/2604.21896v1)** | 2026-04-23 | 14 figures, 3 tables |
-| **[Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416v2)** | 2026-04-23 | ACL Findings |
-| **[Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study](https://arxiv.org/abs/2604.21829v1)** | 2026-04-23 | Preprint |
-| **[Tree Training: Accelerating Agentic LLMs Training via Shared Prefix Reuse](https://arxiv.org/abs/2511.00413v5)** | 2026-04-23 |  |
-| **[Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows](https://arxiv.org/abs/2604.21816v1)** | 2026-04-23 | 21 pages |
-| **[Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems](https://arxiv.org/abs/2604.21794v1)** | 2026-04-23 | <details><summary>Under...</summary><p>Under review at COLM 2026</p></details> |
-| **[Agentic AI-Enabled Framework for Thermal Comfort and Building Energy Assessment in Tropical Urban Neighborhoods](https://arxiv.org/abs/2604.21787v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted at IAQVEC 2026</p></details> |
-| **[Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own](https://arxiv.org/abs/2310.02635v5)** | 2026-04-23 | CoRL 2024 (Oral) |
-| **[WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements](https://arxiv.org/abs/2602.11724v3)** | 2026-04-23 |  |
-| **[AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning](https://arxiv.org/abs/2604.05846v2)** | 2026-04-23 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
-| **[Agentic AI-assisted coding offers a unique opportunity to instill epistemic grounding during software development](https://arxiv.org/abs/2604.21744v1)** | 2026-04-23 | <details><summary>Lette...</summary><p>Letter, 9 pages, 1 table</p></details> |
-| **[AEL: Agent Evolving Learning for Open-Ended Environments](https://arxiv.org/abs/2604.21725v1)** | 2026-04-23 |  |
+| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
+| **[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://arxiv.org/abs/2604.22748v1)** | 2026-04-24 |  |
+| **[Recent Advances in Multi-Agent Human Trajectory Prediction: A Comprehensive Review](https://arxiv.org/abs/2506.14831v3)** | 2026-04-24 | 40 pages |
+| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
+| **[Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems](https://arxiv.org/abs/2604.22708v1)** | 2026-04-24 | Accepted by ACL 2026 |
+| **[Agentic Inequality](https://arxiv.org/abs/2510.16853v3)** | 2026-04-24 |  |
+| **[A dataset of early blockchain-registered AI agents on Ethereum](https://arxiv.org/abs/2604.22652v1)** | 2026-04-24 |  |
+| **[Relational Archetypes: A Comparative Analysis of AV-Human and Agent-Human Interactions](https://arxiv.org/abs/2604.22564v1)** | 2026-04-24 | <details><summary>4 pag...</summary><p>4 pages, 1 table. Accepted and presented at FAST workshop, AAAI 2026</p></details> |
+| **[Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents](https://arxiv.org/abs/2604.22452v1)** | 2026-04-24 |  |
+| **[From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](https://arxiv.org/abs/2604.22446v1)** | 2026-04-24 | 33 pages,13 figures |
+| **[AgentSearchBench: A Benchmark for AI Agent Search in the Wild](https://arxiv.org/abs/2604.22436v1)** | 2026-04-24 |  |
+| **[Automation-Exploit: A Multi-Agent LLM Framework for Adaptive Offensive Security with Digital Twin-Based Risk-Mitigated Exploitation](https://arxiv.org/abs/2604.22427v1)** | 2026-04-24 |  |
+| **[AgentBound: Securing Execution Boundaries of AI Agents](https://arxiv.org/abs/2510.21236v3)** | 2026-04-24 |  |
+| **[AdaptEvolve: Improving Efficiency of Evolutionary AI Agents through Adaptive Model Selection](https://arxiv.org/abs/2602.11931v2)** | 2026-04-24 | 9 pages, 2 Figues |
+| **[Chain-of-Memory: Lightweight Memory Construction with Dynamic Evolution for LLM Agents](https://arxiv.org/abs/2601.14287v2)** | 2026-04-24 |  |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
