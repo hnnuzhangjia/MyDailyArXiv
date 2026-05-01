@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2026
+title: Latest 15 Papers - May 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v2)** | 2026-04-29 |  |
-| **[ClawGym: A Scalable Framework for Building Effective Claw Agents](https://arxiv.org/abs/2604.26904v1)** | 2026-04-29 |  |
-| **[Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850v2)** | 2026-04-29 |  |
-| **[ChinaTravel: An Open-Ended Travel Planning Benchmark with Compositional Constraint Validation for Language Agents](https://arxiv.org/abs/2412.13682v5)** | 2026-04-29 | <details><summary>ICLR ...</summary><p>ICLR 2026. Webpage: https://www.lamda.nju.edu.cn/shaojj/chinatravel</p></details> |
-| **[Agentic Fusion of Large Atomic and Language Models to Accelerate Superconductors Discovery](https://arxiv.org/abs/2604.23758v2)** | 2026-04-29 |  |
-| **[AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents](https://arxiv.org/abs/2603.16496v2)** | 2026-04-29 |  |
-| **[Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations](https://arxiv.org/abs/2604.26805v1)** | 2026-04-29 | <details><summary>Codes...</summary><p>Codes are https://github.com/benchen4395/BianQue_Assistant</p></details> |
-| **[MoltGraph: A Longitudinal Temporal Graph Dataset of Moltbook for Coordinated-Agent Detection](https://arxiv.org/abs/2603.00646v2)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted for publication at 1st ACM Conference on AI and Agentic Systems (ACM CAIS 2026)</p></details> |
-| **[GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents](https://arxiv.org/abs/2604.26752v1)** | 2026-04-29 |  |
-| **[SkillForge: Forging Domain-Specific, Self-Evolving Agent Skills in Cloud Technical Support](https://arxiv.org/abs/2604.08618v2)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted at ACM SIGIR 2026 Industry Track. 18 pages, 5 figures, 3 tables</p></details> |
-| **[OxyGent: Making Multi-Agent Systems Modular, Observable, and Evolvable via Oxy Abstraction](https://arxiv.org/abs/2604.25602v2)** | 2026-04-29 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, ACL 2026 System Demonstration track</p></details> |
-| **[FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards](https://arxiv.org/abs/2604.26733v1)** | 2026-04-29 | <details><summary>Our e...</summary><p>Our experiments are ongoing, and we will release the code in the near future. We release a subset of our historical data on Hugging Face: https://huggingface.co/datasets/PredictingFuture/FutureWorld</p></details> |
-| **[A self-evolving agent for explainable diagnosis of DFT-experiment band-gap mismatch](https://arxiv.org/abs/2604.26703v1)** | 2026-04-29 |  |
-| **[ClawEnvKit: Automatic Environment Generation for Claw-Like Agents](https://arxiv.org/abs/2604.18543v3)** | 2026-04-29 |  |
-| **[StreamAgent: Towards Anticipatory Agents for Streaming Video Understanding](https://arxiv.org/abs/2508.01875v4)** | 2026-04-29 |  |
+| **[Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling](https://arxiv.org/abs/2604.28185v1)** | 2026-04-30 | <details><summary>Proje...</summary><p>Project Page: https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation</p></details> |
+| **[Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v2)** | 2026-04-30 | ACL 2026 |
+| **[Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses](https://arxiv.org/abs/2604.25850v3)** | 2026-04-30 |  |
+| **[Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows](https://arxiv.org/abs/2604.28139v1)** | 2026-04-30 | <details><summary>Proje...</summary><p>Project page: https://claw-eval-live.github.io</p></details> |
+| **[Crab: A Semantics-Aware Checkpoint/Restore Runtime for Agent Sandboxes](https://arxiv.org/abs/2604.28138v1)** | 2026-04-30 | 15 pages, 21 figures |
+| **[Agentic Education: Using Claude Code to Teach Claude Code](https://arxiv.org/abs/2604.17460v2)** | 2026-04-30 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 7 tables. v2: added discussion of the GenAI adoption gap (MIT NANDA 2025) and a future-work direction on affect-aware adaptation; no changes to the system, evaluation, or core contributions. Code: https://github.com/zainnab-sparq/cc-self-train</p></details> |
+| **[What Makes a Good Terminal-Agent Benchmark Task: A Guideline for Adversarial, Difficult, and Legible Evaluation Design](https://arxiv.org/abs/2604.28093v1)** | 2026-04-30 |  |
+| **[Agent-Agnostic Evaluation of SQL Accuracy in Production Text-to-SQL Systems](https://arxiv.org/abs/2604.28049v1)** | 2026-04-30 |  |
+| **[Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment Perception](https://arxiv.org/abs/2604.28048v1)** | 2026-04-30 | <details><summary>8 pag...</summary><p>8 pages, 8 figures. IEEE DCOSS - UrbCom</p></details> |
+| **[Collaborative Agent Reasoning Engineering (CARE): A Three-Party Design Methodology for Systematically Engineering AI Agents with Subject Matter Experts, Developers, and Helper Agents](https://arxiv.org/abs/2604.28043v1)** | 2026-04-30 |  |
+| **[Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation](https://arxiv.org/abs/2604.28011v1)** | 2026-04-30 | <details><summary>12 pa...</summary><p>12 pages, 4 figures. Technical report</p></details> |
+| **[A Pattern Language for Resilient Visual Agents](https://arxiv.org/abs/2604.28001v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted to the 23rd International Conference on Software Architecture (ICSA 2026), New and Emerging Ideas Track. 5 pages, 1 figure</p></details> |
+| **[Exploring Interaction Paradigms for LLM Agents in Scientific Visualization](https://arxiv.org/abs/2604.27996v1)** | 2026-04-30 |  |
+| **[GUI Agents with Reinforcement Learning: Toward Digital Inhabitants](https://arxiv.org/abs/2604.27955v1)** | 2026-04-30 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Steve2457/Awesome-RL-GUI-Agents</p></details> |
+| **[MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection](https://arxiv.org/abs/2604.27934v1)** | 2026-04-30 | <details><summary>Accep...</summary><p>Accepted on ACL 2026 Main Conference</p></details> |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RosettaSearch: Multi-Objective Inference-Time Search for Protein Sequence Design](https://arxiv.org/abs/2604.17175v2)** | 2026-04-30 |  |
+| **[Estimating Decision Uncertainty from Preference Uncertainty: Application to Ground Vehicle Design](https://arxiv.org/abs/2604.27243v1)** | 2026-04-29 |  |
 | **[FedPF: Accurate Target Privacy Preserving Federated Learning Balancing Fairness and Utility](https://arxiv.org/abs/2510.26841v2)** | 2026-04-29 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 33 conference, The paper has been accepted by ICDCS conference</p></details> |
 | **[Uncertainty-Aware Offline Data-Driven Multi-Objective Optimization](https://arxiv.org/abs/2511.06459v2)** | 2026-04-29 |  |
 | **[Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization](https://arxiv.org/abs/2604.25458v1)** | 2026-04-28 | <details><summary>This ...</summary><p>This is an accepted version of a paper published in the proceedings of GECCO 2026</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation](https://arxiv.org/abs/2507.06321v2)** | 2026-04-21 | <details><summary>16 pa...</summary><p>16 pages, 5 figures; published in AIAA SciTech Forum 2026, Paper 2026-1763</p></details> |
 | **[Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility](https://arxiv.org/abs/2604.19113v1)** | 2026-04-21 | 14 pages, 5 figures |
 | **[Barrier-enforced multi-objective optimization for direct point and sharp interval forecasting](https://arxiv.org/abs/2604.18492v1)** | 2026-04-20 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 3 tables</p></details> |
-| **[RosettaSearch: Multi-Objective Inference-Time Search for Protein Sequence Design](https://arxiv.org/abs/2604.17175v1)** | 2026-04-19 |  |
-| **[A phenotype-driven and evidence-governed framework for knowledge graph enrichment and hypotheses discovery in population data](https://arxiv.org/abs/2604.16982v1)** | 2026-04-18 |  |
 
