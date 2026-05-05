@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination](https://arxiv.org/abs/2510.15949v4)** | 2026-05-01 |  |
-| **[Can Coding Agents Reproduce Findings in Computational Materials Science?](https://arxiv.org/abs/2605.00803v1)** | 2026-05-01 |  |
-| **[NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search](https://arxiv.org/abs/2605.00751v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026 as Spotlight</p></details> |
-| **[Position: agentic AI orchestration should be Bayes-consistent](https://arxiv.org/abs/2605.00742v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
-| **[Self-Adaptive Multi-Agent LLM-Based Security Pattern Selection for IoT Systems](https://arxiv.org/abs/2605.00741v1)** | 2026-05-01 |  |
-| **[SoK: Security of Autonomous LLM Agents in Agentic Commerce](https://arxiv.org/abs/2604.15367v2)** | 2026-05-01 |  |
-| **[Affordance Agent Harness: Verification-Gated Skill Orchestration](https://arxiv.org/abs/2605.00663v1)** | 2026-05-01 | <details><summary>43 pa...</summary><p>43 pages, 22 figures, 8 tables. Ongoing work</p></details> |
-| **[E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714v2)** | 2026-05-01 | <details><summary>This ...</summary><p>This paper has been accepted by ICML 2026</p></details> |
-| **[DySRec: Dynamic Context-Aware Psychometric Scale Recommendation via Multi-Agent Collaboration](https://arxiv.org/abs/2605.00574v1)** | 2026-05-01 | 4 pages, 2 figures |
-| **[NOMAD: A Multi-Agent LLM System for UML Class Diagram Generation from Natural Language Requirements](https://arxiv.org/abs/2511.22409v2)** | 2026-05-01 |  |
-| **[A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction](https://arxiv.org/abs/2605.00551v1)** | 2026-05-01 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 5 tables. Accepted to ACL SRW 2026. Project page: https://iyatomilab.github.io/a11y-compressor/</p></details> |
-| **[Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows](https://arxiv.org/abs/2604.28139v2)** | 2026-05-01 | <details><summary>Proje...</summary><p>Project page: https://claw-eval-live.github.io</p></details> |
-| **[Markets with Heterogeneous Agents: Dynamics and Survival of Bayesian vs. No-Regret Learners](https://arxiv.org/abs/2502.08597v3)** | 2026-05-01 | <details><summary>Learn...</summary><p>Learning in Markets, Heterogeneous Agents, Regret and Survival, Bayesian Learning, No-Regret Learning, Portfolio Optimization, Kelly Rule, Distribution Shifts, Robust Bayesian Updates</p></details> |
-| **[SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters](https://arxiv.org/abs/2605.00528v1)** | 2026-05-01 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 11 tables. Accepted to HPDC '26 (35th International Symposium on High-Performance Parallel and Distributed Computing), July 13-16, 2026, Cleveland, OH, USA</p></details> |
-| **[CASE: An Agentic AI Framework for Enhancing Scam Intelligence in Digital Payments](https://arxiv.org/abs/2508.19932v2)** | 2026-05-01 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, Version published in IEEE Xplore</p></details> |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
+| **[Don't Trust Your Upstream: Exploiting LLM Multi-Agent System via Topology-Guided Adversarial Propagation](https://arxiv.org/abs/2512.04129v2)** | 2026-05-04 |  |
+| **[From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills](https://arxiv.org/abs/2604.24026v4)** | 2026-05-04 | 23 pages, 1 figure |
+| **[FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents](https://arxiv.org/abs/2605.02815v1)** | 2026-05-04 |  |
+| **[Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense](https://arxiv.org/abs/2605.02812v1)** | 2026-05-04 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 6 tables</p></details> |
+| **[Tool Use as Action: Towards Agentic Control in Mobile Core Networks](https://arxiv.org/abs/2605.02811v1)** | 2026-05-04 |  |
+| **[MOSAIC: Multi-agent Orchestration for Task-Intelligent Scientific Coding](https://arxiv.org/abs/2510.08804v3)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS DL4C workshop</p></details> |
+| **[Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](https://arxiv.org/abs/2605.02801v1)** | 2026-05-04 |  |
+| **[AI-Generated Smells: An Analysis of Code and Architecture in LLM and Agent-Driven Development](https://arxiv.org/abs/2605.02741v1)** | 2026-05-04 |  |
+| **[Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents](https://arxiv.org/abs/2605.02729v1)** | 2026-05-04 | 17 pages, 8 figures |
+| **[ORPilot: A Production-Oriented Agentic LLM-for-OR Tool for Optimization Modeling](https://arxiv.org/abs/2605.02728v1)** | 2026-05-04 |  |
+| **[An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance](https://arxiv.org/abs/2605.02709v1)** | 2026-05-04 |  |
+| **[Executor-Side Progressive Risk-Gated Actuation for Agentic AI in Wireless Supervisory Control](https://arxiv.org/abs/2605.02697v1)** | 2026-05-04 |  |
+| **[Hybrid Inspection and Task-Based Access Control in Zero-Trust Agentic AI](https://arxiv.org/abs/2605.02682v1)** | 2026-05-04 | <details><summary>Paper...</summary><p>Paper page at https://outshift-open.github.io/tbac-research-datasets</p></details> |
+| **[AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661v1)** | 2026-05-04 |  |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoAction: Cross-task Correlation-aware Pareto Set Learning](https://arxiv.org/abs/2605.01712v1)** | 2026-05-03 | <details><summary>Accep...</summary><p>Accepted by ICIC 2026 (Oral)</p></details> |
 | **[RosettaSearch: Multi-Objective Inference-Time Search for Protein Sequence Design](https://arxiv.org/abs/2604.17175v2)** | 2026-04-30 |  |
 | **[Estimating Decision Uncertainty from Preference Uncertainty: Application to Ground Vehicle Design](https://arxiv.org/abs/2604.27243v1)** | 2026-04-29 |  |
 | **[FedPF: Accurate Target Privacy Preserving Federated Learning Balancing Fairness and Utility](https://arxiv.org/abs/2510.26841v2)** | 2026-04-29 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 33 conference, The paper has been accepted by ICDCS conference</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[MOA: Multi-Objective Alignment for Role-Playing Agents](https://arxiv.org/abs/2512.09756v2)** | 2026-04-22 |  |
 | **[Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation](https://arxiv.org/abs/2507.06321v2)** | 2026-04-21 | <details><summary>16 pa...</summary><p>16 pages, 5 figures; published in AIAA SciTech Forum 2026, Paper 2026-1763</p></details> |
 | **[Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility](https://arxiv.org/abs/2604.19113v1)** | 2026-04-21 | 14 pages, 5 figures |
-| **[Barrier-enforced multi-objective optimization for direct point and sharp interval forecasting](https://arxiv.org/abs/2604.18492v1)** | 2026-04-20 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 3 tables</p></details> |
 
