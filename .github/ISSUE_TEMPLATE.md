@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2026
+title: Latest 15 Papers - May 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v3)** | 2026-05-04 | <details><summary>v3 fi...</summary><p>v3 fixes an error in the baseline numbers (results for main method unaffected), adds cross-LLM experiments, and improves the presentation</p></details> |
-| **[Don't Trust Your Upstream: Exploiting LLM Multi-Agent System via Topology-Guided Adversarial Propagation](https://arxiv.org/abs/2512.04129v2)** | 2026-05-04 |  |
-| **[From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills](https://arxiv.org/abs/2604.24026v4)** | 2026-05-04 | 23 pages, 1 figure |
-| **[FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents](https://arxiv.org/abs/2605.02815v1)** | 2026-05-04 |  |
-| **[Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense](https://arxiv.org/abs/2605.02812v1)** | 2026-05-04 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 6 tables</p></details> |
-| **[Tool Use as Action: Towards Agentic Control in Mobile Core Networks](https://arxiv.org/abs/2605.02811v1)** | 2026-05-04 |  |
-| **[MOSAIC: Multi-agent Orchestration for Task-Intelligent Scientific Coding](https://arxiv.org/abs/2510.08804v3)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS DL4C workshop</p></details> |
-| **[Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces](https://arxiv.org/abs/2605.02801v1)** | 2026-05-04 |  |
-| **[AI-Generated Smells: An Analysis of Code and Architecture in LLM and Agent-Driven Development](https://arxiv.org/abs/2605.02741v1)** | 2026-05-04 |  |
-| **[Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents](https://arxiv.org/abs/2605.02729v1)** | 2026-05-04 | 17 pages, 8 figures |
-| **[ORPilot: A Production-Oriented Agentic LLM-for-OR Tool for Optimization Modeling](https://arxiv.org/abs/2605.02728v1)** | 2026-05-04 |  |
-| **[An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance](https://arxiv.org/abs/2605.02709v1)** | 2026-05-04 |  |
-| **[Executor-Side Progressive Risk-Gated Actuation for Agentic AI in Wireless Supervisory Control](https://arxiv.org/abs/2605.02697v1)** | 2026-05-04 |  |
-| **[Hybrid Inspection and Task-Based Access Control in Zero-Trust Agentic AI](https://arxiv.org/abs/2605.02682v1)** | 2026-05-04 | <details><summary>Paper...</summary><p>Paper page at https://outshift-open.github.io/tbac-research-datasets</p></details> |
-| **[AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661v1)** | 2026-05-04 |  |
+| **[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/abs/2605.04036v1)** | 2026-05-05 | 7 pages |
+| **[Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours](https://arxiv.org/abs/2605.04019v1)** | 2026-05-05 | 39 pages, 8 figures |
+| **[Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](https://arxiv.org/abs/2605.04018v1)** | 2026-05-05 | ACL 2026 |
+| **[SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment](https://arxiv.org/abs/2605.04012v1)** | 2026-05-05 | <details><summary>13 pa...</summary><p>13 page main text, 54 pages total. 16 figures total</p></details> |
+| **[Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing](https://arxiv.org/abs/2605.04003v1)** | 2026-05-05 |  |
+| **[An Agent-Oriented Pluggable Experience-RAG Skill for Experience-Driven Retrieval Strategy Orchestration](https://arxiv.org/abs/2605.03989v1)** | 2026-05-05 | <details><summary>Prepr...</summary><p>Preprint. 6 pages, 1 figure, 3 tables</p></details> |
+| **[From Intent to Execution: Composing Agentic Workflows with Agent Recommendation](https://arxiv.org/abs/2605.03986v1)** | 2026-05-05 |  |
+| **[MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents](https://arxiv.org/abs/2605.03952v1)** | 2026-05-05 |  |
+| **[Position: Agent Should Invoke External Tools ONLY When Epistemically Necessary](https://arxiv.org/abs/2506.00886v3)** | 2026-05-05 |  |
+| **[QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs](https://arxiv.org/abs/2605.03884v1)** | 2026-05-05 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 3 tables</p></details> |
+| **[ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents](https://arxiv.org/abs/2604.23781v2)** | 2026-05-05 | <details><summary>githu...</summary><p>github repo: https://github.com/evolvent-ai/ClawMark</p></details> |
+| **[TRACE: A Metrologically-Grounded Engineering Framework for Trustworthy Agentic AI Systems in Operationally Critical Domains](https://arxiv.org/abs/2605.03838v1)** | 2026-05-05 | 11 pages, 2 figures |
+| **[Agentic-imodels: Evolving agentic interpretability tools via autoresearch](https://arxiv.org/abs/2605.03808v1)** | 2026-05-05 |  |
+| **[ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting](https://arxiv.org/abs/2605.03804v1)** | 2026-05-05 | 10 pages, 4 figures |
+| **[Say the Mission, Execute the Swarm: Agent-Enhanced LLM Reasoning in the Web-of-Drones](https://arxiv.org/abs/2605.03788v1)** | 2026-05-05 | <details><summary>15 pa...</summary><p>15 pages, 5 figures. This paper has been accepted for presentation at the 27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2026)</p></details> |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contextual Multi-Objective Optimization: Rethinking Objectives in Frontier AI Systems](https://arxiv.org/abs/2605.03900v1)** | 2026-05-05 |  |
+| **[Exact and Evolutionary Algorithms for Sequential Multi-Objective Transmission Topology Planning](https://arxiv.org/abs/2605.03753v1)** | 2026-05-05 | 29 pages, 6 figures |
+| **[Adaptive Dual-Path Framework for Covert Semantic Communication](https://arxiv.org/abs/2605.03423v1)** | 2026-05-05 | <details><summary>16 oa...</summary><p>16 oages, 13 figures, Accepted by IEEE Transactions on Communications</p></details> |
 | **[CoAction: Cross-task Correlation-aware Pareto Set Learning](https://arxiv.org/abs/2605.01712v1)** | 2026-05-03 | <details><summary>Accep...</summary><p>Accepted by ICIC 2026 (Oral)</p></details> |
 | **[RosettaSearch: Multi-Objective Inference-Time Search for Protein Sequence Design](https://arxiv.org/abs/2604.17175v2)** | 2026-04-30 |  |
 | **[Estimating Decision Uncertainty from Preference Uncertainty: Application to Ground Vehicle Design](https://arxiv.org/abs/2604.27243v1)** | 2026-04-29 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[KubePACS: Kubernetes Cluster Using Performant, Highly Available, and Cost Efficient Spot Instances](https://arxiv.org/abs/2604.24027v1)** | 2026-04-27 |  |
 | **[UniAda: Universal Adaptive Multi-objective Adversarial Attack for End-to-End Autonomous Driving Systems](https://arxiv.org/abs/2604.23362v1)** | 2026-04-25 | <details><summary>Publi...</summary><p>Published at IEEE Transactions on Reliability journal (2023)</p></details> |
 | **[An Overlay Multicast Routing Method Based on Network Situational Awareness and Hierarchical Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.13211v2)** | 2026-04-23 | 30page, 10 figures |
-| **[MOA: Multi-Objective Alignment for Role-Playing Agents](https://arxiv.org/abs/2512.09756v2)** | 2026-04-22 |  |
-| **[Centralized Copy-Paste: Enhanced Data Augmentation Strategy for Wildland Fire Semantic Segmentation](https://arxiv.org/abs/2507.06321v2)** | 2026-04-21 | <details><summary>16 pa...</summary><p>16 pages, 5 figures; published in AIAA SciTech Forum 2026, Paper 2026-1763</p></details> |
-| **[Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility](https://arxiv.org/abs/2604.19113v1)** | 2026-04-21 | 14 pages, 5 figures |
 
