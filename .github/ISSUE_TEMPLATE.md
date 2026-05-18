@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 17, 2026
+title: Latest 15 Papers - May 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](https://arxiv.org/abs/2605.15198v1)** | 2026-05-14 | <details><summary>Proje...</summary><p>Project Page: https://atlas-oneword.github.io Code: https://github.com/ZiyuGuo99/ATLAS</p></details> |
-| **[FutureSim: Replaying World Events to Evaluate Adaptive Agents](https://arxiv.org/abs/2605.15188v1)** | 2026-05-14 | 31 pages, 10 main |
-| **[Articraft: An Agentic System for Scalable Articulated 3D Asset Generation](https://arxiv.org/abs/2605.15187v1)** | 2026-05-14 | <details><summary>Proje...</summary><p>Project page: https://articraft3d.github.io/</p></details> |
-| **[Is Grep All You Need? How Agent Harnesses Reshape Agentic Search](https://arxiv.org/abs/2605.15184v1)** | 2026-05-14 |  |
-| **[Speculative Interaction Agents: Building Real-Time Agents with Asynchronous I/O and Speculative Tool Calling](https://arxiv.org/abs/2605.13360v2)** | 2026-05-14 | 17 pages |
-| **[Self-Distilled Agentic Reinforcement Learning](https://arxiv.org/abs/2605.15155v1)** | 2026-05-14 |  |
-| **[APWA: A Distributed Architecture for Parallelizable Agentic Workflows](https://arxiv.org/abs/2605.15132v1)** | 2026-05-14 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 14 tables</p></details> |
-| **[MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory](https://arxiv.org/abs/2605.15128v1)** | 2026-05-14 | 46 pages, 15 figures |
-| **[Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG](https://arxiv.org/abs/2605.15109v1)** | 2026-05-14 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, Submitted at IJCAI-ECAI 2026 Joint Workshop on GENAIK and NORA</p></details> |
-| **[From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents](https://arxiv.org/abs/2605.15104v1)** | 2026-05-14 |  |
-| **[Veritas: A Semantically Grounded Agentic Framework for Memory Corruption Vulnerability Detection in Binaries](https://arxiv.org/abs/2605.15097v1)** | 2026-05-14 |  |
-| **[Orchard: An Open-Source Agentic Modeling Framework](https://arxiv.org/abs/2605.15040v1)** | 2026-05-14 |  |
-| **[ClawGym: A Scalable Framework for Building Effective Claw Agents](https://arxiv.org/abs/2604.26904v2)** | 2026-05-14 |  |
-| **[WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections](https://arxiv.org/abs/2605.15030v1)** | 2026-05-14 | <details><summary>Code ...</summary><p>Code and models: https://github.com/caothientri2001vn/WARD-WebAgent</p></details> |
-| **[Multi-Agentic Approach for History Matching of Oil Reservoirs](https://arxiv.org/abs/2605.15028v1)** | 2026-05-14 |  |
+| **[FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast](https://arxiv.org/abs/2605.16233v1)** | 2026-05-15 |  |
+| **[Argus: Evidence Assembly for Scalable Deep Research Agents](https://arxiv.org/abs/2605.16217v1)** | 2026-05-15 |  |
+| **[Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most](https://arxiv.org/abs/2605.16207v1)** | 2026-05-15 | 22 pages, 20 fgures |
+| **[Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP](https://arxiv.org/abs/2605.16205v1)** | 2026-05-15 |  |
+| **[paper.json: A Coordination Convention for LLM-Agent-Actionable Papers](https://arxiv.org/abs/2605.16194v1)** | 2026-05-15 |  |
+| **[MAxLM: Multi-Agent Language Model-Based Scheduling and Resource Allocation in MU-MIMO-OFDMA-Enabled Wireless Networks](https://arxiv.org/abs/2605.16144v1)** | 2026-05-15 |  |
+| **[Look Before You Leap: Autonomous Exploration for LLM Agents](https://arxiv.org/abs/2605.16143v1)** | 2026-05-15 |  |
+| **[FinReporting: An Agentic Workflow for Localized Reporting of Cross-Jurisdiction Financial Disclosures](https://arxiv.org/abs/2604.05966v2)** | 2026-05-15 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Demo Track. 9 pages, including figures and tables</p></details> |
+| **[CryptoBench: A Dynamic Benchmark for Expert-Level Evaluation of LLM Agents in Cryptocurrency](https://arxiv.org/abs/2512.00417v5)** | 2026-05-15 |  |
+| **[UniShield: An Adaptive Multi-Agent Framework for Unified Forgery Image Detection and Localization](https://arxiv.org/abs/2510.03161v2)** | 2026-05-15 |  |
+| **[ShopGym: An Integrated Framework for Realistic Simulation and Scalable Benchmarking of E-Commerce Web Agents](https://arxiv.org/abs/2605.16116v1)** | 2026-05-15 | 32 pages, 10 figures |
+| **[Multi-Agent Cooperative Transportation: Optimal and Efficient Task Allocation and Path Finding](https://arxiv.org/abs/2605.16097v1)** | 2026-05-15 |  |
+| **[VideoSeeker: Incentivizing Instance-level Video Understanding via Native Agentic Tool Invocation](https://arxiv.org/abs/2605.16079v1)** | 2026-05-15 | <details><summary>Proje...</summary><p>Project Page: https://gaotiexinqu.github.io/VideoSeeker/</p></details> |
+| **[RecMem: Recurrence-based Memory Consolidation for Efficient and Effective Long-Running LLM Agents](https://arxiv.org/abs/2605.16045v1)** | 2026-05-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
+| **[T2T-LA: A Topology-to-Topology LLM Agent for Graph Learning with Neither Feature Access nor Task Knowledge](https://arxiv.org/abs/2512.08964v4)** | 2026-05-15 |  |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reading the Cell, Designing the Cure: Perturbation-Conditioned Molecular Diffusion for Function-Oriented Drug Design](https://arxiv.org/abs/2605.15243v1)** | 2026-05-14 |  |
 | **[ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery](https://arxiv.org/abs/2605.12784v2)** | 2026-05-14 | 9 pages, 5 figures |
 | **[In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114v2)** | 2026-05-12 |  |
 | **[Molecular Design beyond Training Data with Novel Extended Objective Functionals of Generative AI Models Driven by Quantum Annealing Computer](https://arxiv.org/abs/2602.15451v3)** | 2026-05-12 | 28 pages, 4 figures |
@@ -40,11 +41,13 @@ labels: documentation
 | **[FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](https://arxiv.org/abs/2510.02578v5)** | 2026-03-25 |  |
 | **[Latent Style-based Quantum Wasserstein GAN for Drug Design](https://arxiv.org/abs/2603.22399v1)** | 2026-03-23 | <details><summary>Main ...</summary><p>Main part: 22 pages, 11 figures, 6 tables. Supplementary material: 16 pages, 15 figures, 14 tables</p></details> |
 | **[BInD: Bond and Interaction-generating Diffusion Model for Multi-objective Structure-based Drug Design](https://arxiv.org/abs/2405.16861v3)** | 2026-03-06 | <details><summary>Publi...</summary><p>Published in Advanced Science 12(35), e02702 (2025)</p></details> |
-| **[FuseDiff: Symmetry-Preserving Joint Diffusion for Dual-Target Structure-Based Drug Design](https://arxiv.org/abs/2603.05567v1)** | 2026-03-05 |  |
 
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MESD: A Risk-Sensitive Metric for Explanation Fairness Across Intersectional Subgroups](https://arxiv.org/abs/2603.13452v3)** | 2026-05-15 |  |
+| **[FormulaCode: Evaluating Agentic Optimization on Large Codebases](https://arxiv.org/abs/2603.16011v2)** | 2026-05-14 | Preprint version |
+| **[GESD: Beyond Outcome-Oriented Fairness](https://arxiv.org/abs/2605.15295v1)** | 2026-05-14 | <details><summary>7 pag...</summary><p>7 pages, Accepted at IEEE CAI</p></details> |
 | **[A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization](https://arxiv.org/abs/2605.09094v2)** | 2026-05-14 |  |
 | **[Multi-objective application placement in fog computing using graph neural network-based reinforcement learning](https://arxiv.org/abs/2605.14649v1)** | 2026-05-14 |  |
 | **[Chinese Short-Form Creative Content Generation via Explanation-Oriented Multi-Objective Optimization](https://arxiv.org/abs/2511.15408v2)** | 2026-05-14 | <details><summary>19 pa...</summary><p>19 pages,10 figures. Submitted to ACM for possible publication</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models](https://arxiv.org/abs/2603.18256v2)** | 2026-05-11 |  |
 | **[Fairness vs Performance: Characterizing the Pareto Frontier of Algorithmic Decision Systems](https://arxiv.org/abs/2605.10604v1)** | 2026-05-11 | <details><summary>23 pa...</summary><p>23 pages, The 2026 ACM conference on Fairness, Accountability, and Transparency (FAccT'26)</p></details> |
 | **[Meta-Black-Box Optimization Can Do Search Guidance for Expensive Constrained Multi-Objective Optimization](https://arxiv.org/abs/2605.10260v1)** | 2026-05-11 |  |
-| **[SMOG: Scalable Meta-Learning for Multi-Objective Bayesian Optimization](https://arxiv.org/abs/2601.22131v2)** | 2026-05-11 | 29 pages, 18 figures |
-| **[Chebyshev Center-Based Direction Selection for Multi-Objective Optimization and Training PINNs](https://arxiv.org/abs/2605.09975v1)** | 2026-05-11 |  |
-| **[MESD: A Risk-Sensitive Metric for Explanation Fairness Across Intersectional Subgroups](https://arxiv.org/abs/2603.13452v2)** | 2026-05-11 |  |
 
