@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 21, 2026
+title: Latest 15 Papers - May 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning](https://arxiv.org/abs/2605.20176v1)** | 2026-05-19 | <details><summary>24 pa...</summary><p>24 pages, 9 figures; Project Page: https://ucsc-vlaa.github.io/ClinSeekAgent/</p></details> |
-| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
-| **[The World Won't Stay Still: Programmable Evolution for Agent Benchmarks](https://arxiv.org/abs/2603.05910v2)** | 2026-05-19 |  |
-| **[What Do Evolutionary Coding Agents Evolve?](https://arxiv.org/abs/2605.20086v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 12 figures, 12 tables</p></details> |
-| **[Argus: Evidence Assembly for Scalable Deep Research Agents](https://arxiv.org/abs/2605.16217v2)** | 2026-05-19 |  |
-| **[CopT: Contrastive On-Policy Thinking with Continuous Spaces for General and Agentic Reasoning](https://arxiv.org/abs/2605.20075v1)** | 2026-05-19 | <details><summary>Code:...</summary><p>Code: https://github.com/sdc17/CopT, Website: https://copt-web.github.io/</p></details> |
-| **[Rewarding Beliefs, Not Actions: Consistency-Guided Credit Assignment for Long-Horizon Agents](https://arxiv.org/abs/2605.20061v1)** | 2026-05-19 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables, plus appendix</p></details> |
-| **[The Last Human-Written Paper: Agent-Native Research Artifacts](https://arxiv.org/abs/2604.24658v3)** | 2026-05-19 | <details><summary>46 pa...</summary><p>46 pages, 15 figures, 14 tables</p></details> |
-| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
-| **[MINTEval: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems](https://arxiv.org/abs/2605.18565v2)** | 2026-05-19 | <details><summary>Equal...</summary><p>Equal contribution; order decided by a coin flip. Code and data: https://github.com/amy-hyunji/MINTEval</p></details> |
-| **[When Skills Don't Help: A Negative Result on Procedural Knowledge for Tool-Grounded Agents in Offensive Cybersecurity](https://arxiv.org/abs/2605.20023v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted as a poster at ACM CAIS 2026 AgentSkills Workshop</p></details> |
-| **[CADDesigner: Conceptual CAD Model Generation with a General-Purpose Agent](https://arxiv.org/abs/2508.01031v6)** | 2026-05-19 |  |
-| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
-| **[Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory](https://arxiv.org/abs/2605.19952v1)** | 2026-05-19 |  |
-| **[PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents](https://arxiv.org/abs/2605.19932v1)** | 2026-05-19 |  |
+| **[MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](https://arxiv.org/abs/2605.22794v1)** | 2026-05-21 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 2 tables. Preprint. Code: https://github.com/dav-joy-thon/MOSS</p></details> |
+| **[LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems](https://arxiv.org/abs/2605.22786v1)** | 2026-05-21 |  |
+| **[DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback](https://arxiv.org/abs/2605.22781v1)** | 2026-05-21 |  |
+| **[Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.22748v1)** | 2026-05-21 | <details><summary>12 pa...</summary><p>12 pages (+4 supplementary). Website: https://rpg.ifi.uzh.ch/marl</p></details> |
+| **[Self-Evolving Multi-Agent Systems via Decentralized Memory](https://arxiv.org/abs/2605.22721v1)** | 2026-05-21 |  |
+| **[Insights Generator: Systematic Corpus-Level Trace Diagnostics for LLM Agents](https://arxiv.org/abs/2605.21347v2)** | 2026-05-21 |  |
+| **[Orchard: An Open-Source Agentic Modeling Framework](https://arxiv.org/abs/2605.15040v2)** | 2026-05-21 |  |
+| **[RAGCap-Bench: Benchmarking Capabilities of LLMs in Agentic Retrieval Augmented Generation Systems](https://arxiv.org/abs/2510.13910v2)** | 2026-05-21 |  |
+| **[CentaurEval: Benchmarking Human-in-the-Loop Value in Agentic Coding](https://arxiv.org/abs/2512.04111v3)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[WorkstreamBench: Evaluating LLM Agents on End-to-End Spreadsheet Tasks in Finance](https://arxiv.org/abs/2605.22664v1)** | 2026-05-21 |  |
+| **[Claw AI Lab: An Autonomous Multi-Agent Research Team](https://arxiv.org/abs/2605.22662v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project page and code are available at https://github.com/Claw-AI-Lab/Claw-AI-Lab</p></details> |
+| **[Spec2Cov: An Agentic Framework for Code Coverage Closure of Digital Hardware Designs](https://arxiv.org/abs/2604.15606v2)** | 2026-05-21 |  |
+| **[AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](https://arxiv.org/abs/2605.22645v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Boiling the Frog: A Multi-Turn Benchmark for Agentic Safety](https://arxiv.org/abs/2605.22643v1)** | 2026-05-21 |  |
+| **[Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning](https://arxiv.org/abs/2605.22642v1)** | 2026-05-21 | <details><summary>Mingy...</summary><p>Mingyuan served as the project lead. Banghao, Yining, and Mingyuan contributed equally to this work, with more junior authors listed before senior authors. All data and code releases are maintained by the corresponding authors at UIUC and are not affiliated with Meta</p></details> |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules](https://arxiv.org/abs/2605.22287v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 9 tables. Preprint</p></details> |
+| **[SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?](https://arxiv.org/abs/2605.21740v1)** | 2026-05-20 |  |
 | **[Generative Pseudo-Force Fields for Molecular Generation](https://arxiv.org/abs/2605.19050v1)** | 2026-05-18 |  |
 | **[Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization](https://arxiv.org/abs/2605.17693v1)** | 2026-05-17 |  |
 | **[Reading the Cell, Designing the Cure: Perturbation-Conditioned Molecular Diffusion for Function-Oriented Drug Design](https://arxiv.org/abs/2605.15243v1)** | 2026-05-14 |  |
@@ -39,12 +41,12 @@ labels: documentation
 | **[C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs](https://arxiv.org/abs/2604.23061v1)** | 2026-04-24 | 18 pages, 6 figures |
 | **[When Active Learning Falls Short: An Empirical Study on Chemical Reaction Extraction](https://arxiv.org/abs/2604.19335v1)** | 2026-04-21 |  |
 | **[Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design](https://arxiv.org/abs/2604.16279v1)** | 2026-04-17 |  |
-| **[Fast and Interpretable Protein Substructure Alignment via Optimal Transport](https://arxiv.org/abs/2510.11752v2)** | 2026-04-09 | ICLR 2026 |
-| **[FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](https://arxiv.org/abs/2510.02578v5)** | 2026-03-25 |  |
 
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation](https://arxiv.org/abs/2605.21083v1)** | 2026-05-20 | <details><summary>35 pa...</summary><p>35 pages, 4 figures, and 12 tables</p></details> |
+| **[SURF: Steering the Scalarization Weight to Uniformly Traverse the Pareto Front](https://arxiv.org/abs/2605.20619v1)** | 2026-05-20 |  |
 | **[Agentic Discovery of Cryomicroneedle Formulations](https://arxiv.org/abs/2605.19677v1)** | 2026-05-19 |  |
 | **[GOAL: Graph-based Objective-Aligned Diffusion Solvers for Dynamic Multi-Objective Optimization](https://arxiv.org/abs/2605.19119v1)** | 2026-05-18 |  |
 | **[Spatiotemporal Robustness of Temporal Logic Tasks using Multi-Objective Reasoning](https://arxiv.org/abs/2603.29868v2)** | 2026-05-18 | <details><summary>30 pa...</summary><p>30 pages, 6 figures, to be published at the 38th International Conference on Computer Aided Verification 2026</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Chinese Short-Form Creative Content Generation via Explanation-Oriented Multi-Objective Optimization](https://arxiv.org/abs/2511.15408v2)** | 2026-05-14 | <details><summary>19 pa...</summary><p>19 pages,10 figures. Submitted to ACM for possible publication</p></details> |
 | **[AP-BMM: Approximating Capability-Cost Pareto Sets of LLMs via Asynchronous Prior-Guided Bayesian Model Merging](https://arxiv.org/abs/2512.09972v6)** | 2026-05-13 |  |
 | **[TRUST-TAEA: A trustworthiness-guided two-archive evolutionary algorithm with variable-grouping sparse search for large-scale multi-objective optimization](https://arxiv.org/abs/2605.13324v1)** | 2026-05-13 |  |
-| **[Improving Code Translation with Syntax-Guided and Semantic-aware Preference Optimization](https://arxiv.org/abs/2605.13229v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted in the 35th International Joint Conference on Artificial Intelligence (IJCAI 2016)</p></details> |
-| **[In-Context Multi-Objective Optimization](https://arxiv.org/abs/2512.11114v2)** | 2026-05-12 |  |
 
