@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2026
+title: Latest 15 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,29 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904v1)** | 2026-05-22 | <details><summary>27 pa...</summary><p>27 pages, 4 figures, 6 tables</p></details> |
-| **[From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills](https://arxiv.org/abs/2605.23899v1)** | 2026-05-22 |  |
-| **[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces](https://arxiv.org/abs/2605.23887v1)** | 2026-05-22 |  |
-| **[Gen-Searcher: Reinforcing Agentic Search for Image Generation](https://arxiv.org/abs/2603.28767v3)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project page: https://gen-searcher.vercel.app Code: https://github.com/tulerfeng/Gen-Searcher</p></details> |
-| **[SFG-ROS: A Resource-Aware Framework for Dense Multi-Agent Perception](https://arxiv.org/abs/2605.23832v1)** | 2026-05-22 |  |
-| **[Anytime Detection of Strategic Deviations in Multi-Agent Systems](https://arxiv.org/abs/2601.05427v3)** | 2026-05-22 | <details><summary>Code ...</summary><p>Code at: https://github.com/GauthierE/anytime-detection-deviation</p></details> |
-| **[SUDP: Secret-Use Delegation Protocol for Agentic Systems](https://arxiv.org/abs/2604.24920v3)** | 2026-05-22 |  |
-| **[Routing Equilibrium in Mixed-Autonomy Traffic Networks with Altruistic Autonomous Agents](https://arxiv.org/abs/2605.23782v1)** | 2026-05-22 |  |
-| **[Agentic Proving for Program Verification](https://arxiv.org/abs/2605.23772v1)** | 2026-05-22 |  |
-| **[PhotoFlow: Agentic 3D Virtual Photography Missions](https://arxiv.org/abs/2605.23771v1)** | 2026-05-22 |  |
-| **[QED: An Open-Source Multi-Agent System for Generating Mathematical Proofs on Open Problems](https://arxiv.org/abs/2604.24021v3)** | 2026-05-22 |  |
-| **[LLM-driven design of physics-constrained constitutive models: two agents are better than one](https://arxiv.org/abs/2605.23754v1)** | 2026-05-22 |  |
-| **[IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents](https://arxiv.org/abs/2604.05157v2)** | 2026-05-22 |  |
-| **[MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection](https://arxiv.org/abs/2605.23723v1)** | 2026-05-22 |  |
-| **[Boiling the Frog: A Multi-Turn Benchmark for Agentic Safety](https://arxiv.org/abs/2605.22643v2)** | 2026-05-22 |  |
+| **[From Model Scaling to System Scaling: Scaling the Harness in Agentic AI](https://arxiv.org/abs/2605.26112v1)** | 2026-05-25 |  |
+| **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904v2)** | 2026-05-25 | <details><summary>27 pa...</summary><p>27 pages, 4 figures, 6 tables</p></details> |
+| **[VeriTrace: Evolving Mental Models for Deep Research Agents](https://arxiv.org/abs/2605.26081v1)** | 2026-05-25 |  |
+| **[Automated Benchmark Auditing for AI Agents and Large Language Models](https://arxiv.org/abs/2605.26079v1)** | 2026-05-25 |  |
+| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v2)** | 2026-05-25 | <details><summary>50 pa...</summary><p>50 pages, 22 figures, 14 tables</p></details> |
+| **[When Do LLM Agents Treat Surface Noise Differently from Semantic Noise? A 68-Cell Measurement Study with a Held-Out Trace-Level Validation](https://arxiv.org/abs/2605.25981v1)** | 2026-05-25 |  |
+| **[Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents](https://arxiv.org/abs/2605.25971v1)** | 2026-05-25 | <details><summary>26 pa...</summary><p>26 pages, 4 figures; code available at https://github.com/AgentACE-AI/ProAct</p></details> |
+| **[PathWISE: Multi-Agent Cancer Pathway Triaging Ontology Learning from Clinical Flowcharts](https://arxiv.org/abs/2605.25970v1)** | 2026-05-25 | 13 pages, 4 figures |
+| **[PolyGnosis 2.0: Enhancing LLM Reasoning via Agentic Harness Engineering for Polymarket and OSINT Insight Extraction](https://arxiv.org/abs/2605.25958v1)** | 2026-05-25 |  |
+| **[Explore Before You Solve: The Speed--Depth Trade-off in Epistemic Agents for ARC-AGI-3](https://arxiv.org/abs/2605.25931v1)** | 2026-05-25 | <details><summary>22 pa...</summary><p>22 pages, 3 figures. Code: https://github.com/farmountain/aera-arc3-paper (CC0)</p></details> |
+| **[Multi-Agent Systems are Mixtures of Experts: Who Becomes an Influencer?](https://arxiv.org/abs/2605.25929v1)** | 2026-05-25 |  |
+| **[Can LLMs Time Travel? Enhancing Temporal Consistency in Legal Agentic Search through Reinforcement Learning](https://arxiv.org/abs/2605.25920v1)** | 2026-05-25 | Under Review |
+| **[How Agentic AI Coding Assistants Become the Attacker's Shell](https://arxiv.org/abs/2605.25871v1)** | 2026-05-25 |  |
+| **[Mitigating Provenance-Role Collapse in Long-Term Agents via Typed Memory Representation](https://arxiv.org/abs/2605.25869v1)** | 2026-05-25 |  |
+| **[$π$-Play: Multi-Agent Self-Play via Privileged Self-Distillation without External Data](https://arxiv.org/abs/2604.14054v2)** | 2026-05-25 | 23 pages, 11 figures |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design](https://arxiv.org/abs/2601.22466v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?](https://arxiv.org/abs/2605.21740v2)** | 2026-05-24 |  |
 | **[SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules](https://arxiv.org/abs/2605.22287v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 9 tables. Preprint</p></details> |
-| **[SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?](https://arxiv.org/abs/2605.21740v1)** | 2026-05-20 |  |
+| **[Harnessing AtomisticSkills for Agentic Atomistic Research](https://arxiv.org/abs/2605.24002v1)** | 2026-05-18 |  |
 | **[Generative Pseudo-Force Fields for Molecular Generation](https://arxiv.org/abs/2605.19050v1)** | 2026-05-18 |  |
 | **[Fine-tuning Pocket-Aware Diffusion Models via Denoising Policy Optimization](https://arxiv.org/abs/2605.17693v1)** | 2026-05-17 |  |
 | **[Reading the Cell, Designing the Cure: Perturbation-Conditioned Molecular Diffusion for Function-Oriented Drug Design](https://arxiv.org/abs/2605.15243v1)** | 2026-05-14 |  |
@@ -39,12 +41,14 @@ labels: documentation
 | **[Synergistic Benefits of Joint Molecule Generation and Property Prediction](https://arxiv.org/abs/2504.16559v3)** | 2026-05-08 | 17 pages, 4 figures |
 | **[Quantum-inspired Reinforcement Learning for Synthesizable Drug Design](https://arxiv.org/abs/2409.09183v2)** | 2026-05-06 |  |
 | **[C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs](https://arxiv.org/abs/2604.23061v1)** | 2026-04-24 | 18 pages, 6 figures |
-| **[When Active Learning Falls Short: An Empirical Study on Chemical Reaction Extraction](https://arxiv.org/abs/2604.19335v1)** | 2026-04-21 |  |
-| **[Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design](https://arxiv.org/abs/2604.16279v1)** | 2026-04-17 |  |
 
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Joint Optimization of Training and Inference in Federated Edge Learning via Constrained Multi-Objective Deep Reinforcement Learning](https://arxiv.org/abs/2605.25916v1)** | 2026-05-25 |  |
+| **[A Scalable Benchmark Test Suite for Dynamic Multi-Objective Optimization with a Changing Number of Objectives](https://arxiv.org/abs/2605.25785v1)** | 2026-05-25 |  |
+| **[Don't Retrain, Just Reuse: Recovering Dual-Target Molecules from Single-Target Diffusion Models](https://arxiv.org/abs/2605.25681v1)** | 2026-05-25 |  |
+| **[Overcoming "Physics Shock" in Earth Observation A Heteroscedastic Uncertainty Framework for PINN-based Flood Inference](https://arxiv.org/abs/2605.24106v1)** | 2026-05-22 | <details><summary>This ...</summary><p>This article is accepted in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
 | **[MileStone: A Multi-Objective Compiler Phase Ordering Framework for Graph-based IR-Level Optimization](https://arxiv.org/abs/2605.23435v1)** | 2026-05-22 |  |
 | **[AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation](https://arxiv.org/abs/2605.21083v1)** | 2026-05-20 | <details><summary>35 pa...</summary><p>35 pages, 4 figures, and 12 tables</p></details> |
 | **[SURF: Steering the Scalarization Weight to Uniformly Traverse the Pareto Front](https://arxiv.org/abs/2605.20619v1)** | 2026-05-20 |  |
@@ -56,8 +60,4 @@ labels: documentation
 | **[MESD: A Risk-Sensitive Metric for Explanation Fairness Across Intersectional Subgroups](https://arxiv.org/abs/2603.13452v3)** | 2026-05-15 |  |
 | **[FormulaCode: Evaluating Agentic Optimization on Large Codebases](https://arxiv.org/abs/2603.16011v2)** | 2026-05-14 | Preprint version |
 | **[GESD: Beyond Outcome-Oriented Fairness](https://arxiv.org/abs/2605.15295v1)** | 2026-05-14 | <details><summary>7 pag...</summary><p>7 pages, Accepted at IEEE CAI</p></details> |
-| **[A Tale of Two Problems: Multi-Task Bilevel Learning Meets Equality Constrained Multi-Objective Optimization](https://arxiv.org/abs/2605.09094v2)** | 2026-05-14 |  |
-| **[Multi-objective application placement in fog computing using graph neural network-based reinforcement learning](https://arxiv.org/abs/2605.14649v1)** | 2026-05-14 |  |
-| **[Chinese Short-Form Creative Content Generation via Explanation-Oriented Multi-Objective Optimization](https://arxiv.org/abs/2511.15408v2)** | 2026-05-14 | <details><summary>19 pa...</summary><p>19 pages,10 figures. Submitted to ACM for possible publication</p></details> |
-| **[AP-BMM: Approximating Capability-Cost Pareto Sets of LLMs via Asynchronous Prior-Guided Bayesian Model Merging](https://arxiv.org/abs/2512.09972v6)** | 2026-05-13 |  |
 
