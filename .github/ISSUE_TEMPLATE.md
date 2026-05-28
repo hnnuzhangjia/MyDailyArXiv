@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2026
+title: Latest 15 Papers - May 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](https://arxiv.org/abs/2605.27366v1)** | 2026-05-26 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 13 tables, working in progress</p></details> |
-| **[Natural Language Query to Configuration for Retrieval Agents](https://arxiv.org/abs/2605.27361v1)** | 2026-05-26 |  |
-| **[GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing](https://arxiv.org/abs/2605.27360v1)** | 2026-05-26 | 18 pages, 16 figures |
-| **[Exploring Agent Interactions in MoltBook through Social Network Analysis](https://arxiv.org/abs/2605.27349v1)** | 2026-05-26 |  |
-| **[LiPUP-MA: A Residential Experience-centric Multi-Agent Framework for Living-in-the-loop Participatory Urban Planning](https://arxiv.org/abs/2412.20505v2)** | 2026-05-26 |  |
-| **[FinHarness: An Inline Lifecycle Safety Harness for Finance LLM Agents](https://arxiv.org/abs/2605.27333v1)** | 2026-05-26 |  |
-| **[Maat: The Agentic Legal Research Assistant for Competition Protection](https://arxiv.org/abs/2605.27331v1)** | 2026-05-26 | 5 pages, 1 figure |
-| **[Governed Evolution of Agent Runtimes through Executable Operational Cognition](https://arxiv.org/abs/2605.27328v1)** | 2026-05-26 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 1 table. Reference implementation and associated source code available at: https://github.com/mgarralda/governed-runtime</p></details> |
-| **[TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents](https://arxiv.org/abs/2601.05899v2)** | 2026-05-26 | AAAI 2026 Oral |
-| **[Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding](https://arxiv.org/abs/2605.27320v1)** | 2026-05-26 |  |
-| **[Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History](https://arxiv.org/abs/2602.17003v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows](https://arxiv.org/abs/2605.24219v2)** | 2026-05-26 |  |
-| **[MedCollab: IBIS-Guided Multi-Agent Collaboration with Hierarchical Disease Relation Chains for Clinical Diagnosis](https://arxiv.org/abs/2603.01131v2)** | 2026-05-26 |  |
-| **[ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents](https://arxiv.org/abs/2605.27240v1)** | 2026-05-26 |  |
-| **[EviACT: An Evidence-to-Action Framework for Agentic Program Repair](https://arxiv.org/abs/2605.27238v1)** | 2026-05-26 |  |
+| **[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/gamma-world</p></details> |
+| **[Structured Agent Distillation for Large Language Model](https://arxiv.org/abs/2505.13820v5)** | 2026-05-27 |  |
+| **[Test-Time Compute for Dense Retrieval: Agentic Program Generation with Frozen Embedding Models](https://arxiv.org/abs/2605.11374v4)** | 2026-05-27 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 5 tables</p></details> |
+| **[ReflexGrad: Within-Episode Failure Recovery in LLM Agents via Progress-Gated Dual-Process Routing](https://arxiv.org/abs/2511.14584v3)** | 2026-05-27 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 10 tables. Accepted at ICML 2026 FoGen Workshop</p></details> |
+| **[Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval](https://arxiv.org/abs/2605.28787v1)** | 2026-05-27 |  |
+| **[Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents](https://arxiv.org/abs/2605.28775v1)** | 2026-05-27 |  |
+| **[Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](https://arxiv.org/abs/2605.28774v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/AXPO-page/</p></details> |
+| **[SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks](https://arxiv.org/abs/2605.28764v1)** | 2026-05-27 |  |
+| **[MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination](https://arxiv.org/abs/2605.22949v2)** | 2026-05-27 |  |
+| **[Execution and assessment of agentic influence operations in simulated social networks](https://arxiv.org/abs/2605.28725v1)** | 2026-05-27 |  |
+| **[Long-Term Mapping of the Douro River Plume with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2510.03534v5)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Conference on Robotics and Automation</p></details> |
+| **[LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?](https://arxiv.org/abs/2605.28721v1)** | 2026-05-27 |  |
+| **[VeriTrip: A Verifiable Benchmark for Travel Planning Agents over Unstructured Web Corpora](https://arxiv.org/abs/2605.28683v1)** | 2026-05-27 | 10 pages, 4 figures |
+| **[EvoMAS: Evolutionary Generation of Multi-Agent Systems](https://arxiv.org/abs/2602.06511v4)** | 2026-05-27 | ICML2026 |
+| **[AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](https://arxiv.org/abs/2605.28655v1)** | 2026-05-27 |  |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[C-MORAL: Controllable Multi-Objective Molecular Optimization with Reinforcement Alignment for LLMs](https://arxiv.org/abs/2604.23061v2)** | 2026-05-26 | 26 pages, 7 figures |
 | **[MolPIF: A Parameter Interpolation Flow Model for Molecule Generation](https://arxiv.org/abs/2507.13762v4)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted to Bioinformatics</p></details> |
 | **[Co-folding model guided by structural proteomics](https://arxiv.org/abs/2605.26192v1)** | 2026-05-25 |  |
 | **[EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design](https://arxiv.org/abs/2601.22466v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Molecular Design beyond Training Data with Novel Extended Objective Functionals of Generative AI Models Driven by Quantum Annealing Computer](https://arxiv.org/abs/2602.15451v3)** | 2026-05-12 | 28 pages, 4 figures |
 | **[Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials](https://arxiv.org/abs/2605.08988v1)** | 2026-05-09 |  |
 | **[From Holo Pockets to Electron Density: GPT-style Drug Design with Density](https://arxiv.org/abs/2605.08767v1)** | 2026-05-09 | <details><summary>Publi...</summary><p>Published as a conference paper in ICML 2026</p></details> |
-| **[Synergistic Benefits of Joint Molecule Generation and Property Prediction](https://arxiv.org/abs/2504.16559v3)** | 2026-05-08 | 17 pages, 4 figures |
 
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Goal-Oriented Networking Approach for Intelligent IoT Service Deployment](https://arxiv.org/abs/2605.28502v1)** | 2026-05-27 |  |
 | **[Can Broad Biomedical Knowledge be Contextualized into Scenario-Grounded Propositions?](https://arxiv.org/abs/2605.27082v1)** | 2026-05-26 |  |
 | **[Evolutionary Data Theory: On the Similarities between Data Problems and Evolutionary Games](https://arxiv.org/abs/2605.26685v1)** | 2026-05-26 | 11 pages, 3 figures |
 | **[Re-M3Dr: Rebalanced MultiModal Mean Deviation Regression](https://arxiv.org/abs/2605.26513v1)** | 2026-05-26 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Agentic Discovery of Cryomicroneedle Formulations](https://arxiv.org/abs/2605.19677v1)** | 2026-05-19 |  |
 | **[GOAL: Graph-based Objective-Aligned Diffusion Solvers for Dynamic Multi-Objective Optimization](https://arxiv.org/abs/2605.19119v1)** | 2026-05-18 |  |
 | **[Spatiotemporal Robustness of Temporal Logic Tasks using Multi-Objective Reasoning](https://arxiv.org/abs/2603.29868v2)** | 2026-05-18 | <details><summary>30 pa...</summary><p>30 pages, 6 figures, to be published at the 38th International Conference on Computer Aided Verification 2026</p></details> |
-| **[Multi-Party Multi-Objective Optimization as Consensus Search: Runtime Analysis of Cross-Party Recombination](https://arxiv.org/abs/2605.17454v1)** | 2026-05-17 | 40 pages, 7 figures |
 
