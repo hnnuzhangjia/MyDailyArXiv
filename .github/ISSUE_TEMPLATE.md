@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2026
+title: Latest 15 Papers - May 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/gamma-world</p></details> |
-| **[Structured Agent Distillation for Large Language Model](https://arxiv.org/abs/2505.13820v5)** | 2026-05-27 |  |
-| **[Test-Time Compute for Dense Retrieval: Agentic Program Generation with Frozen Embedding Models](https://arxiv.org/abs/2605.11374v4)** | 2026-05-27 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 5 tables</p></details> |
-| **[ReflexGrad: Within-Episode Failure Recovery in LLM Agents via Progress-Gated Dual-Process Routing](https://arxiv.org/abs/2511.14584v3)** | 2026-05-27 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 10 tables. Accepted at ICML 2026 FoGen Workshop</p></details> |
-| **[Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval](https://arxiv.org/abs/2605.28787v1)** | 2026-05-27 |  |
-| **[Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents](https://arxiv.org/abs/2605.28775v1)** | 2026-05-27 |  |
-| **[Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](https://arxiv.org/abs/2605.28774v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project page: https://byungkwanlee.github.io/AXPO-page/</p></details> |
-| **[SwarmHarness: Skill-Based Task Routing via Decentralized Incentive-Aligned AI Agent Networks](https://arxiv.org/abs/2605.28764v1)** | 2026-05-27 |  |
-| **[MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination](https://arxiv.org/abs/2605.22949v2)** | 2026-05-27 |  |
-| **[Execution and assessment of agentic influence operations in simulated social networks](https://arxiv.org/abs/2605.28725v1)** | 2026-05-27 |  |
-| **[Long-Term Mapping of the Douro River Plume with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2510.03534v5)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Conference on Robotics and Automation</p></details> |
-| **[LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?](https://arxiv.org/abs/2605.28721v1)** | 2026-05-27 |  |
-| **[VeriTrip: A Verifiable Benchmark for Travel Planning Agents over Unstructured Web Corpora](https://arxiv.org/abs/2605.28683v1)** | 2026-05-27 | 10 pages, 4 figures |
-| **[EvoMAS: Evolutionary Generation of Multi-Agent Systems](https://arxiv.org/abs/2602.06511v4)** | 2026-05-27 | ICML2026 |
-| **[AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation](https://arxiv.org/abs/2605.28655v1)** | 2026-05-27 |  |
+| **[Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Multi-Component LLM Agents](https://arxiv.org/abs/2605.30335v1)** | 2026-05-28 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 24 tables. Preliminary versions to appear at the ICML 2026 Workshops on Combining Theory and Benchmarks (CTB), Statistical Frameworks for Uncertainty in Agentic Systems (AgenticUQ), and Failure Modes of Agentic AI (FAGEN)</p></details> |
+| **[SpecBench: Evaluating Specification-Level Reasoning for Software Engineering LLM Agents](https://arxiv.org/abs/2605.30314v1)** | 2026-05-28 |  |
+| **[AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning](https://arxiv.org/abs/2602.23258v2)** | 2026-05-28 |  |
+| **[Loong: A Human-Like Long Document Translation Agent with Observe-and-Act Adaptive Context Selection](https://arxiv.org/abs/2605.30274v1)** | 2026-05-28 |  |
+| **[Catalyst-Agent: Autonomous heterogeneous catalyst screening with an LLM Agent](https://arxiv.org/abs/2603.01311v2)** | 2026-05-28 |  |
+| **[VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents](https://arxiv.org/abs/2605.30256v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://research.nvidia.com/labs/amri/projects/video-fdb/</p></details> |
+| **[GenClaw: Code-Driven Agentic Image Generation](https://arxiv.org/abs/2605.30248v1)** | 2026-05-28 | 21 pages, 7 figures |
+| **[CalBench: Evaluating Coordination-Privacy Trade-offs in Multi-Agent LLMs](https://arxiv.org/abs/2605.09823v2)** | 2026-05-28 |  |
+| **[Unifying Temporal and Structural Credit Assignment in LLM-Based Multi-Agent Prompt Optimization](https://arxiv.org/abs/2605.30227v1)** | 2026-05-28 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 6 tables</p></details> |
+| **[Latency-Quality Routing for Functionally Equivalent Tools in LLM Agents](https://arxiv.org/abs/2605.14241v2)** | 2026-05-28 | <details><summary>14 pa...</summary><p>14 pages, 6 figure, 13 tables</p></details> |
+| **[Mean-Field Diffuser: Scaling Offline MARL to Thousands of Agents](https://arxiv.org/abs/2605.30190v1)** | 2026-05-28 | <details><summary>71 pa...</summary><p>71 pages, 15 figures, 16 tables</p></details> |
+| **[An Agent-Centric Dynamical Systems Perspective on Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.07588v2)** | 2026-05-28 |  |
+| **[Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at FaccT 2026</p></details> |
+| **[Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents](https://arxiv.org/abs/2605.30159v1)** | 2026-05-28 |  |
+| **[Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?](https://arxiv.org/abs/2605.30152v1)** | 2026-05-28 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, 7 tables</p></details> |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,10 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PEARL: Training Socratic Tutors with Pedagogically Aligned Reinforcement Learning](https://arxiv.org/abs/2605.29582v1)** | 2026-05-28 | 16 pages, 7 figures |
+| **[Evolutionary Rule Extraction from Corporate Default Prediction Models](https://arxiv.org/abs/2605.29478v1)** | 2026-05-28 |  |
+| **[Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data](https://arxiv.org/abs/2605.29058v1)** | 2026-05-27 |  |
+| **[Causal Intelligence for Constraint-Aware Intervention Design to Induce State Transitions](https://arxiv.org/abs/2605.29008v1)** | 2026-05-27 |  |
 | **[A Goal-Oriented Networking Approach for Intelligent IoT Service Deployment](https://arxiv.org/abs/2605.28502v1)** | 2026-05-27 |  |
 | **[Can Broad Biomedical Knowledge be Contextualized into Scenario-Grounded Propositions?](https://arxiv.org/abs/2605.27082v1)** | 2026-05-26 |  |
 | **[Evolutionary Data Theory: On the Similarities between Data Problems and Evolutionary Games](https://arxiv.org/abs/2605.26685v1)** | 2026-05-26 | 11 pages, 3 figures |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Overcoming "Physics Shock" in Earth Observation A Heteroscedastic Uncertainty Framework for PINN-based Flood Inference](https://arxiv.org/abs/2605.24106v1)** | 2026-05-22 | <details><summary>This ...</summary><p>This article is accepted in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
 | **[MileStone: A Multi-Objective Compiler Phase Ordering Framework for Graph-based IR-Level Optimization](https://arxiv.org/abs/2605.23435v1)** | 2026-05-22 |  |
 | **[AIMBio-Mat: An AI-Native FAIR Platform for Closed-Loop Materials Discovery and Biomedical Translation](https://arxiv.org/abs/2605.21083v1)** | 2026-05-20 | <details><summary>35 pa...</summary><p>35 pages, 4 figures, and 12 tables</p></details> |
-| **[SURF: Steering the Scalarization Weight to Uniformly Traverse the Pareto Front](https://arxiv.org/abs/2605.20619v1)** | 2026-05-20 |  |
-| **[Agentic Discovery of Cryomicroneedle Formulations](https://arxiv.org/abs/2605.19677v1)** | 2026-05-19 |  |
-| **[GOAL: Graph-based Objective-Aligned Diffusion Solvers for Dynamic Multi-Objective Optimization](https://arxiv.org/abs/2605.19119v1)** | 2026-05-18 |  |
-| **[Spatiotemporal Robustness of Temporal Logic Tasks using Multi-Objective Reasoning](https://arxiv.org/abs/2603.29868v2)** | 2026-05-18 | <details><summary>30 pa...</summary><p>30 pages, 6 figures, to be published at the 38th International Conference on Computer Aided Verification 2026</p></details> |
 
