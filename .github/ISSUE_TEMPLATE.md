@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentopia: Long-Term Life Simulation and Learning in Agent Societies](https://arxiv.org/abs/2606.07513v1)** | 2026-06-05 | 79 pages, 19 figures |
-| **[MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](https://arxiv.org/abs/2606.07512v1)** | 2026-06-05 |  |
-| **[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489v1)** | 2026-06-05 |  |
-| **[SentinelBench: A Benchmark for Long-Running Monitoring Agents](https://arxiv.org/abs/2606.05342v2)** | 2026-06-05 | 18 pages, 16 figures |
-| **[Act As a Real Researcher: A Suite of Benchmarks Evaluating Frontier LLMs and Agentic Harnesses in Research Lifecycle](https://arxiv.org/abs/2606.07462v1)** | 2026-06-05 |  |
-| **[Agentic Very Much! Adoption of Coding Agent in New GitHub Projects](https://arxiv.org/abs/2606.07448v1)** | 2026-06-05 |  |
-| **[Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning](https://arxiv.org/abs/2606.07436v1)** | 2026-06-05 |  |
-| **[Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.12655v2)** | 2026-06-05 |  |
-| **[Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills](https://arxiv.org/abs/2606.07412v1)** | 2026-06-05 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. Under review</p></details> |
-| **[M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions](https://arxiv.org/abs/2606.07402v1)** | 2026-06-05 |  |
-| **[Audio-Oscar: A Multi-Agent System for Complex Audio Scene Generation, Orchestration, and Refinement](https://arxiv.org/abs/2606.07397v1)** | 2026-06-05 |  |
-| **[Do Coding Agents Deceive Us? Detecting and Preventing Cheating via Capped Evaluation with Randomized Tests](https://arxiv.org/abs/2606.07379v1)** | 2026-06-05 |  |
-| **[An End-to-End Encrypted Control Pipeline for Multi-Agent Coordination via CKKS Homomorphic Encryption](https://arxiv.org/abs/2606.07375v1)** | 2026-06-05 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Self-evolving LLM agents with in-distribution Optimization](https://arxiv.org/abs/2606.07367v1)** | 2026-06-05 | ICML 2026 |
-| **[Beyond tokens: a unified framework for latent communication in LLM-based multi-agent systems](https://arxiv.org/abs/2606.05711v2)** | 2026-06-05 |  |
+| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
+| **[PQR: A Framework to Generate Diverse and Realistic User Queries that Elicit QA Agent Failures](https://arxiv.org/abs/2605.16551v2)** | 2026-06-08 |  |
+| **[SWARM+: Scalable and Resilient Multi-Agent Consensus for Decentralized Data-Aware Workload Management](https://arxiv.org/abs/2603.19431v3)** | 2026-06-08 |  |
+| **[SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation](https://arxiv.org/abs/2606.09774v1)** | 2026-06-08 |  |
+| **[iOSWorld: A Benchmark for Personally Intelligent Phone Agents](https://arxiv.org/abs/2606.09764v1)** | 2026-06-08 |  |
+| **[Collaborative Human-Agent Protocol (CHAP)](https://arxiv.org/abs/2606.09751v1)** | 2026-06-08 |  |
+| **[Multi-Turn Evaluation of Deep Research Agents Under Process-Level Feedback](https://arxiv.org/abs/2606.09748v1)** | 2026-06-08 | <details><summary>Publi...</summary><p>Published as a workshop paper at SCALE - ICML 2026 (Oral)</p></details> |
+| **[HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents](https://arxiv.org/abs/2606.09738v1)** | 2026-06-08 |  |
+| **[SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](https://arxiv.org/abs/2606.09730v1)** | 2026-06-08 |  |
+| **[Observability for Delegated Execution in Agentic AI Systems](https://arxiv.org/abs/2606.09692v1)** | 2026-06-08 |  |
+| **[AutoMegaKernel: A Statically-Checked Agent Harness for Self-Retargeting Megakernel Synthesis](https://arxiv.org/abs/2606.09682v1)** | 2026-06-08 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Open-source code, data, and agent harness: https://github.com/RightNow-AI/AutoMegaKernel</p></details> |
+| **[SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://arxiv.org/abs/2606.09669v1)** | 2026-06-08 |  |
+| **[Exploring Autonomous Agentic Data Engineering for Model Specialization](https://arxiv.org/abs/2605.30407v2)** | 2026-06-08 | Work in progress |
+| **[MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding](https://arxiv.org/abs/2606.09641v1)** | 2026-06-08 |  |
+| **[Agentic Persona Generation with Critique-Refinement: An Industrial Evaluation](https://arxiv.org/abs/2606.09637v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted in the Industry Track of the Requirements Engineering (RE) 2026 Conference</p></details> |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sampling Out-of-Distribution Chemical Spaces via Bayesian Flow](https://arxiv.org/abs/2412.11439v6)** | 2026-06-08 | <details><summary>35 pa...</summary><p>35 pages, 14 figures, 9 tables</p></details> |
 | **[ShallowBench: Benchmarking Generative Drug Design Models on Shallow-Pocket Targets](https://arxiv.org/abs/2606.06717v1)** | 2026-06-04 |  |
 | **[Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design](https://arxiv.org/abs/2606.00555v2)** | 2026-06-02 |  |
 | **[From Holo Pockets to Electron Density: GPT-style Drug Design with Density](https://arxiv.org/abs/2605.08767v2)** | 2026-06-02 | <details><summary>Publi...</summary><p>Published as a conference paper in ICML 2026</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Co-folding model guided by structural proteomics](https://arxiv.org/abs/2605.26192v1)** | 2026-05-25 |  |
 | **[EvoEGF-Mol: Evolving Exponential Geodesic Flow for Structure-based Drug Design](https://arxiv.org/abs/2601.22466v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[SMDD-Bench: Can LLMs Solve Real-World Small Molecule Drug Design Tasks?](https://arxiv.org/abs/2605.21740v2)** | 2026-05-24 |  |
-| **[SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules](https://arxiv.org/abs/2605.22287v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 9 tables. Preprint</p></details> |
 
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrating Deep Learning Demand Forecasting with Multi-Objective Optimization for Circular Coffee Supply Chains: A Data-Driven Framework for Cost, Emissions, and Freshness Management](https://arxiv.org/abs/2606.08314v1)** | 2026-06-06 |  |
+| **[A Game-Theoretic Decision Framework for Optimal Selection of Coordination Detection Methods in Multi-UAV Fleet Operations](https://arxiv.org/abs/2606.02383v2)** | 2026-06-05 |  |
 | **[OpenACMv2: An Accuracy-Constrained Co-Optimization Framework for Approximate DCiM](https://arxiv.org/abs/2603.13042v2)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted by DAC2026. Camera-ready version</p></details> |
 | **[Multi-objective optimization and quantum hybridization of equivariant deep learning interatomic potentials](https://arxiv.org/abs/2602.16908v2)** | 2026-06-04 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 6 tables</p></details> |
 | **[KubePACS: Kubernetes Cluster Using Performant, Highly Available, and Cost Efficient Spot Instances](https://arxiv.org/abs/2604.24027v2)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to the 27th ACM International Middleware Conference (Middleware 2026)</p></details> |
@@ -56,8 +58,6 @@ labels: documentation
 | **[Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data](https://arxiv.org/abs/2605.29058v2)** | 2026-06-02 |  |
 | **[Benchmarking Continuous Dynamic Multi-Objective Optimization: Survey and Generalized Test Suite](https://arxiv.org/abs/2601.01317v2)** | 2026-06-02 |  |
 | **[CoAction: Cross-task Correlation-aware Pareto Set Learning](https://arxiv.org/abs/2605.01712v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICIC 2026 (Oral)</p></details> |
-| **[A Game-Theoretic Decision Framework for Optimal Selection of Coordination Detection Methods in Multi-UAV Fleet Operations](https://arxiv.org/abs/2606.02383v1)** | 2026-06-01 |  |
 | **[From Global Policies to Local Strategies: Multi-Objective Optimization of Resource-Specific Handover Policies](https://arxiv.org/abs/2606.01857v1)** | 2026-06-01 |  |
 | **[Application of Algorithms in Energy-Efficient Design Platforms for Green Building](https://arxiv.org/abs/2606.01229v1)** | 2026-05-31 | <details><summary>9 pag...</summary><p>9 pages, 4 figures.2026 International Conference on Big Data Applications in Education and Engineering (ICBDAEE 2026)</p></details> |
-| **[Meta-Black-Box Optimization with Ensemble Surrogate Modeling for Robustness-Accuracy Trade-off within SAEA](https://arxiv.org/abs/2606.00862v1)** | 2026-05-30 |  |
 
