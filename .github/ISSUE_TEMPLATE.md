@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2026
+title: Latest 15 Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1)** | 2026-06-08 |  |
-| **[PQR: A Framework to Generate Diverse and Realistic User Queries that Elicit QA Agent Failures](https://arxiv.org/abs/2605.16551v2)** | 2026-06-08 |  |
-| **[SWARM+: Scalable and Resilient Multi-Agent Consensus for Decentralized Data-Aware Workload Management](https://arxiv.org/abs/2603.19431v3)** | 2026-06-08 |  |
-| **[SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation](https://arxiv.org/abs/2606.09774v1)** | 2026-06-08 |  |
-| **[iOSWorld: A Benchmark for Personally Intelligent Phone Agents](https://arxiv.org/abs/2606.09764v1)** | 2026-06-08 |  |
-| **[Collaborative Human-Agent Protocol (CHAP)](https://arxiv.org/abs/2606.09751v1)** | 2026-06-08 |  |
-| **[Multi-Turn Evaluation of Deep Research Agents Under Process-Level Feedback](https://arxiv.org/abs/2606.09748v1)** | 2026-06-08 | <details><summary>Publi...</summary><p>Published as a workshop paper at SCALE - ICML 2026 (Oral)</p></details> |
-| **[HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents](https://arxiv.org/abs/2606.09738v1)** | 2026-06-08 |  |
-| **[SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research](https://arxiv.org/abs/2606.09730v1)** | 2026-06-08 |  |
-| **[Observability for Delegated Execution in Agentic AI Systems](https://arxiv.org/abs/2606.09692v1)** | 2026-06-08 |  |
-| **[AutoMegaKernel: A Statically-Checked Agent Harness for Self-Retargeting Megakernel Synthesis](https://arxiv.org/abs/2606.09682v1)** | 2026-06-08 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Open-source code, data, and agent harness: https://github.com/RightNow-AI/AutoMegaKernel</p></details> |
-| **[SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://arxiv.org/abs/2606.09669v1)** | 2026-06-08 |  |
-| **[Exploring Autonomous Agentic Data Engineering for Model Specialization](https://arxiv.org/abs/2605.30407v2)** | 2026-06-08 | Work in progress |
-| **[MAVIS: Multi-Agent Video Retrieval via Structured Video Understanding](https://arxiv.org/abs/2606.09641v1)** | 2026-06-08 |  |
-| **[Agentic Persona Generation with Critique-Refinement: An Industrial Evaluation](https://arxiv.org/abs/2606.09637v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted in the Industry Track of the Requirements Engineering (RE) 2026 Conference</p></details> |
+| **[EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](https://arxiv.org/abs/2606.11182v1)** | 2026-06-09 | 19 pages, 6 figures |
+| **[Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://arxiv.org/abs/2606.11176v1)** | 2026-06-09 | <details><summary>Proje...</summary><p>Project page: https://data2story.github.io Github: https://github.com/QinghongLin/data2story-skill</p></details> |
+| **[ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity](https://arxiv.org/abs/2606.11150v1)** | 2026-06-09 | <details><summary>18 pa...</summary><p>18 pages. To be published in ICML 2026</p></details> |
+| **[TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning](https://arxiv.org/abs/2606.11119v1)** | 2026-06-09 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, 6 tables</p></details> |
+| **[VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation](https://arxiv.org/abs/2606.11079v1)** | 2026-06-09 |  |
+| **[A History-Aware Visually Grounded Critic for Computer Use Agents](https://arxiv.org/abs/2606.11078v1)** | 2026-06-09 | <details><summary>Code:...</summary><p>Code: https://github.com/G-JWLee/HiViG</p></details> |
+| **[T1-Bench: Benchmarking Multi-Scenario Agents in Real-World Domains](https://arxiv.org/abs/2606.11070v1)** | 2026-06-09 | Preprint |
+| **[Prosociality by Coupling, Not Mere Observation: Homeostatic Sharing in an Inspectable Recurrent Artificial Life Agent](https://arxiv.org/abs/2604.10760v2)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at ALIFE 2026 Conference, Waterloo Institute for Complexity & Innovation</p></details> |
+| **[What Fits (Into Few Tokens) Doesn't Overfit: Compression and Generalization in ML Research Agents](https://arxiv.org/abs/2606.11045v1)** | 2026-06-09 |  |
+| **[Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042v1)** | 2026-06-09 |  |
+| **[AgenticRL: Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigation](https://arxiv.org/abs/2606.03963v3)** | 2026-06-09 |  |
+| **[The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications](https://arxiv.org/abs/2604.24668v3)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 FinAI Workshop</p></details> |
+| **[Gecko: A Simulation Environment with Stateful Feedback for Refining Agent Tool Calls](https://arxiv.org/abs/2602.19218v2)** | 2026-06-09 |  |
+| **[Frontier Coding Agents Use Metaprogramming to Adapt to Unfamiliar Programming Languages](https://arxiv.org/abs/2606.10933v1)** | 2026-06-09 | 43 pages, 8 figures |
+| **[Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution](https://arxiv.org/abs/2606.10917v1)** | 2026-06-09 | <details><summary>20 pa...</summary><p>20 pages, including 12 pages of main text and 8 pages of appendix; work in progress</p></details> |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,10 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models](https://arxiv.org/abs/2606.11025v1)** | 2026-06-09 |  |
+| **[mlr3mbo: Bayesian Optimization in R](https://arxiv.org/abs/2603.29730v2)** | 2026-06-09 |  |
+| **[LLM-Aided Joint Secrecy Precoding and Trajectory for RSMA-Based Heterogeneous UAV Networks](https://arxiv.org/abs/2507.17188v2)** | 2026-06-09 |  |
+| **[Trading Utility for Dynamic Fairness in Multiple Resource Division with Sequential Demand](https://arxiv.org/abs/2606.10472v1)** | 2026-06-09 |  |
 | **[Integrating Deep Learning Demand Forecasting with Multi-Objective Optimization for Circular Coffee Supply Chains: A Data-Driven Framework for Cost, Emissions, and Freshness Management](https://arxiv.org/abs/2606.08314v1)** | 2026-06-06 |  |
 | **[A Game-Theoretic Decision Framework for Optimal Selection of Coordination Detection Methods in Multi-UAV Fleet Operations](https://arxiv.org/abs/2606.02383v2)** | 2026-06-05 |  |
 | **[OpenACMv2: An Accuracy-Constrained Co-Optimization Framework for Approximate DCiM](https://arxiv.org/abs/2603.13042v2)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted by DAC2026. Camera-ready version</p></details> |
@@ -56,8 +60,4 @@ labels: documentation
 | **[ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](https://arxiv.org/abs/2606.04468v1)** | 2026-06-03 |  |
 | **[MAdam: Metric-Aware Multi-Objective Adam](https://arxiv.org/abs/2606.03904v1)** | 2026-06-02 |  |
 | **[Parallel Adaptive Multi-Objective Evolutionary Learning of Discretized Bayesian Network Classifiers for Clinical Data](https://arxiv.org/abs/2605.29058v2)** | 2026-06-02 |  |
-| **[Benchmarking Continuous Dynamic Multi-Objective Optimization: Survey and Generalized Test Suite](https://arxiv.org/abs/2601.01317v2)** | 2026-06-02 |  |
-| **[CoAction: Cross-task Correlation-aware Pareto Set Learning](https://arxiv.org/abs/2605.01712v2)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICIC 2026 (Oral)</p></details> |
-| **[From Global Policies to Local Strategies: Multi-Objective Optimization of Resource-Specific Handover Policies](https://arxiv.org/abs/2606.01857v1)** | 2026-06-01 |  |
-| **[Application of Algorithms in Energy-Efficient Design Platforms for Green Building](https://arxiv.org/abs/2606.01229v1)** | 2026-05-31 | <details><summary>9 pag...</summary><p>9 pages, 4 figures.2026 International Conference on Big Data Applications in Education and Engineering (ICBDAEE 2026)</p></details> |
 
