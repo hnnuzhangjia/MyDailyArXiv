@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](https://arxiv.org/abs/2610.03715v1)** | 2026-10-02 | <details><summary>https...</summary><p>https://4dcodebench.com/</p></details> |
-| **[Recursive Agent Optimization](https://arxiv.org/abs/2605.06639v2)** | 2026-10-02 |  |
-| **[Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents](https://arxiv.org/abs/2610.03634v1)** | 2026-10-02 |  |
-| **[NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](https://arxiv.org/abs/2610.03631v1)** | 2026-10-02 |  |
-| **[UniIntervene++: An Adaptive Intervention Agent for Efficient Real-World Reinforcement Learning](https://arxiv.org/abs/2610.03620v1)** | 2026-10-02 | <details><summary>Yudon...</summary><p>Yudong Lin and Haoyuan Deng contributed equally. Ziwei Wang is the corresponding author. Code is available in our \href{https://github.com/dannyyudong/An-Adaptive-Intervention-Agent-for-Efficient-Real-World-Reinforcement-Learning}{GitHub repository}</p></details> |
-| **[LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity](https://arxiv.org/abs/2609.29672v2)** | 2026-10-02 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 7 tables. v2 adds interface figures and the companion tool LLMersion Narrator. Code: https://github.com/QM378/LLMersion ; Narrator: https://github.com/QM378/llmersion-narrator</p></details> |
-| **[HazardWeaver: Scientific Route Selection for Hazard Analysis Agents](https://arxiv.org/abs/2610.03591v1)** | 2026-10-02 | <details><summary>24 pa...</summary><p>24 pages, including references and appendices. Code is available at https://github.com/LabRAI/HazardWeaver</p></details> |
-| **[Assistant or Actor? Student Trust, Control, and Delegation Regret When Using a General-Purpose AI Agent](https://arxiv.org/abs/2607.18257v2)** | 2026-10-02 | <details><summary>Prese...</summary><p>Presented at the 2026 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC). 10 pages, 3 figures</p></details> |
-| **[Threat-Preserving Representation Sensitivity in Agent-Security Benchmarks](https://arxiv.org/abs/2610.03585v1)** | 2026-10-02 | 12 pages, 2 figures |
-| **[HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents](https://arxiv.org/abs/2610.03574v1)** | 2026-10-02 |  |
-| **[Knowledge or Calculator? Decomposing the Skill Premium in Verifiable Financial Agent Workflows](https://arxiv.org/abs/2610.03564v1)** | 2026-10-02 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 9 tables</p></details> |
-| **[Code2Math: Can Your Code Agent Evolve Math Problems Through Exploration?](https://arxiv.org/abs/2603.03202v5)** | 2026-10-02 | 38 pages |
-| **[Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents](https://arxiv.org/abs/2610.03448v1)** | 2026-10-02 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 4 tables. Code: https://github.com/lzwhehe/benign-instruction-bench</p></details> |
-| **[HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents](https://arxiv.org/abs/2605.17873v3)** | 2026-10-02 | <details><summary>EMNLP...</summary><p>EMNLP Findings 2026. Code : https://github.com/wgcyeo/HINT-SD</p></details> |
-| **[Counterfactual Evidence Audits Predict LLM-Agent Susceptibility to Ranked Context](https://arxiv.org/abs/2606.00914v2)** | 2026-10-02 | <details><summary>19 pa...</summary><p>19 pages, 1 figure. Accepted at FLMSec 2026 (NeurIPS 2026 Workshop). Substantially revised after peer review with new preregistered audits, matched controls, held-out validation, RAG transfer, and Codex boundary tests</p></details> |
+| **[One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline](https://arxiv.org/abs/2610.06852v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project page: https://onefigureeverycanvas.vercel.app/</p></details> |
+| **[Recursive Video In-Context Learning for Agentic Robot](https://arxiv.org/abs/2610.06843v1)** | 2026-10-05 |  |
+| **[MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://arxiv.org/abs/2610.06830v1)** | 2026-10-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/MemPilot</p></details> |
+| **[CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](https://arxiv.org/abs/2610.06829v1)** | 2026-10-05 |  |
+| **[Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification](https://arxiv.org/abs/2610.06790v1)** | 2026-10-05 | <details><summary>40th ...</summary><p>40th NeurIPS'26 Workshop AI for Chip Design</p></details> |
+| **[T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search](https://arxiv.org/abs/2610.06782v1)** | 2026-10-05 |  |
+| **[EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution](https://arxiv.org/abs/2604.09568v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
+| **[BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents](https://arxiv.org/abs/2610.06748v1)** | 2026-10-05 | <details><summary>38 pa...</summary><p>38 pages, 4 figures. Code: https://github.com/ziyan-wang98/BazaarBench; data: https://huggingface.co/BazaarBench</p></details> |
+| **[Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents](https://arxiv.org/abs/2606.22673v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'2026</p></details> |
+| **[MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA Tasks](https://arxiv.org/abs/2610.06695v1)** | 2026-10-05 |  |
+| **[Majority Dynamics on Resampled Sparse Erdős--Rényi Graphs: Gaussian Winner Selection in Collaborative Agent Networks](https://arxiv.org/abs/2608.06159v2)** | 2026-10-05 | 42 pages, 4 figures |
+| **[Programmatic Search Agents: Extending Agentic Search Beyond Query Reformulation](https://arxiv.org/abs/2610.06689v1)** | 2026-10-05 | 17 pages, 5 figures |
+| **[VideoTapestry: Query-Adaptive Memory Refinement for Multi-Agent Long-Video Understanding](https://arxiv.org/abs/2610.06672v1)** | 2026-10-05 |  |
+| **[VideoGen-Agent: Reinforcing Video Generation Agents](https://arxiv.org/abs/2609.24997v3)** | 2026-10-05 |  |
+| **[Wikidata Search Traces: A Dataset for Training Knowledge Graph Search Agents](https://arxiv.org/abs/2610.06650v1)** | 2026-10-05 | Technical Report |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,26 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Pareto Stationary Fronts via Single-Pass Backpropagation](https://arxiv.org/abs/2610.06397v1)** | 2026-10-05 |  |
+| **[Large Language Models for Model-Based Robot Design](https://arxiv.org/abs/2609.33423v2)** | 2026-10-05 | 9 pages, 4 figures |
+| **[pCoMole: Pareto-Constrained Molecule Editing with Discrete Flows](https://arxiv.org/abs/2610.01663v2)** | 2026-10-04 | <details><summary>Publi...</summary><p>Published at NeurIPS 2026. (Proceedings of the 40th Conference on Neural Information Processing Systems, Sydney, Australia)</p></details> |
+| **[MERCI Cards: An LLM Evaluation and Deployment Framework for High-Stakes Domains](https://arxiv.org/abs/2610.04430v1)** | 2026-10-03 |  |
 | **[Topology-Aware Integrated Sensing, Communication, Charging in Massive Low-Altitude Wireless Network](https://arxiv.org/abs/2610.02457v1)** | 2026-10-01 |  |
 | **[Hardware-Algorithm Co-Optimization of Early-Exit Neural Networks for Multi-Core Edge Accelerators](https://arxiv.org/abs/2512.04705v3)** | 2026-10-01 |  |
-| **[pCoMole: Pareto-Constrained Molecule Editing with Discrete Flows](https://arxiv.org/abs/2610.01663v1)** | 2026-10-01 | <details><summary>Publi...</summary><p>Published at NeurIPS 2026. (Proceedings of the 40th Conference on Neural Information Processing Systems, Sydney, Australia)</p></details> |
 | **[Calibrating Prediction Timeliness Through Multi-Objective Hyperparameter Optimization for Remaining Useful Life Prediction](https://arxiv.org/abs/2610.01530v1)** | 2026-10-01 |  |
 | **[Fairness-Aware Performance Evaluation for Multi-Party Multi-Objective Optimization](https://arxiv.org/abs/2601.22497v2)** | 2026-09-30 |  |
 | **[Learning Where to Steer: Noise-Space Geometry for Efficient Offline Multi-Objective Optimization with Generative Models](https://arxiv.org/abs/2609.38920v1)** | 2026-09-30 | <details><summary>65 pa...</summary><p>65 pages, including appendices</p></details> |
 | **[Component-Aware Feedback for Self-Evolving Programs](https://arxiv.org/abs/2609.38639v1)** | 2026-09-29 |  |
 | **[Joint Surrogate Learning of Objectives, Constraints, and Sensitivities for Efficient Multi-objective Optimization of Neural Dynamical Systems](https://arxiv.org/abs/2603.20984v2)** | 2026-09-28 |  |
-| **[Large Language Models for Model-Based Robot Design](https://arxiv.org/abs/2609.33423v1)** | 2026-09-27 | 9 pages, 4 figures |
 | **[Multilingual Fine-Tuning via Localized Gradient Conflict Resolution](https://arxiv.org/abs/2606.05613v2)** | 2026-09-27 |  |
 | **[FedHV: Low-Overhead Hypervolume Weighting for Federated Multi-Objective Optimization](https://arxiv.org/abs/2609.32790v1)** | 2026-09-26 | <details><summary>Prepr...</summary><p>Preprint; submitted to ICLR 2027</p></details> |
 | **[From Dual Tracking to Clipping: Provably Faster Distributionally Robust Multi-Objective Optimization](https://arxiv.org/abs/2605.05660v2)** | 2026-09-26 | 47 pages |
 | **[SSP-Bench: A Hybrid Data Generation Framework for Safety, Security, and Privacy Evaluation](https://arxiv.org/abs/2609.25352v2)** | 2026-09-26 |  |
-| **[MoMHa: Multi-Objective Optimization of LLM Harnesses over Accuracy, Safety, and Tokens](https://arxiv.org/abs/2609.30967v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted to the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)</p></details> |
-| **[Estimating and Orthogonalizing Unknown Pre-training Gradients for Continual Fine-tuning of Large Language Models](https://arxiv.org/abs/2609.30935v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. 29 pages, 3 figures. Code: https://github.com/wangbing1416/EoupCT</p></details> |
 
 ## DNA
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tracing model-generated DNA with position-independent watermarking](https://arxiv.org/abs/2610.04763v1)** | 2026-10-03 | 16 pages |
 | **[The Coverage Depth Problem in Distributed DNA Data Storage](https://arxiv.org/abs/2610.02931v1)** | 2026-10-02 | 33 pages, 2 figures |
 | **[From DNA Design to DNA Slimming: Auditable Agentic Discovery of a Deletion-Only Designer](https://arxiv.org/abs/2609.40143v1)** | 2026-09-30 | <details><summary>40th ...</summary><p>40th Conference on Neural Information Processing Systems (NeurIPS 2026). Workshop: Agentic AI for Biological Discovery</p></details> |
 | **[VANDAM: Viewing a nucleotide sequence with DNA molecular priors](https://arxiv.org/abs/2610.00411v1)** | 2026-09-30 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, including appendices</p></details> |
@@ -78,24 +79,23 @@ labels: documentation
 | **[Learning-Enhanced Composite DNA Data Storage Under Sampling Randomness and IDS Errors](https://arxiv.org/abs/2602.11951v2)** | 2026-09-08 | <details><summary>16 pa...</summary><p>16 pages. A preliminary version of this work was presented at the 2026 IEEE International Conference on Communications (ICC) under the title 'Robust Composite DNA Storage under Sampling Randomness, Substitution, and Insertion-Deletion Errors.'</p></details> |
 | **[Some homogeneity test statistics for DNA evolutionary models](https://arxiv.org/abs/2609.06871v1)** | 2026-09-06 |  |
 | **[DnA: Denoising Attention for Visual Tasks](https://arxiv.org/abs/2606.27372v2)** | 2026-09-03 |  |
-| **[An Economic Analysis of DNA-based Data Storage Systems](https://arxiv.org/abs/2608.26342v1)** | 2026-08-26 |  |
 
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution](https://arxiv.org/abs/2610.03675v1)** | 2026-10-02 | 17 pages, 4 figures |
-| **[Rhetorical Questions in LLM Representations: A Linear Probing Study](https://arxiv.org/abs/2604.14128v3)** | 2026-10-02 | <details><summary>18 pa...</summary><p>18 pages, 15 figures, accepted to ACL 2026</p></details> |
-| **[NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents](https://arxiv.org/abs/2610.03631v1)** | 2026-10-02 |  |
-| **[Objects Without Morphisms: What LLMs for Mathematics Do Not Represent](https://arxiv.org/abs/2610.03551v1)** | 2026-10-02 |  |
-| **[Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling](https://arxiv.org/abs/2512.19905v3)** | 2026-10-02 | <details><summary>Publi...</summary><p>Published at International Conference on Machine Learning 2026</p></details> |
-| **[Author Representation Strategies for Zero-Shot Authorship Attribution: A Comparative Study of LLM-Based and Embedding-Based Approaches](https://arxiv.org/abs/2610.03531v1)** | 2026-10-02 |  |
-| **[Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents](https://arxiv.org/abs/2610.03448v1)** | 2026-10-02 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 4 tables. Code: https://github.com/lzwhehe/benign-instruction-bench</p></details> |
-| **[Understanding Gaps in LLM Pipelines Towards Scalable Fuzzing Harness Generation: An Empirical Study and Enhancement](https://arxiv.org/abs/2512.03420v5)** | 2026-10-02 |  |
-| **[Counterfactual Evidence Audits Predict LLM-Agent Susceptibility to Ranked Context](https://arxiv.org/abs/2606.00914v2)** | 2026-10-02 | <details><summary>19 pa...</summary><p>19 pages, 1 figure. Accepted at FLMSec 2026 (NeurIPS 2026 Workshop). Substantially revised after peer review with new preregistered audits, matched controls, held-out validation, RAG transfer, and Codex boundary tests</p></details> |
-| **[Jumping the Line: Exploiting Length Predictions in LLM Scheduling](https://arxiv.org/abs/2610.03430v1)** | 2026-10-02 | 24 pages, 6 figures |
-| **[EdgeAgent: Orchestrating On-Device LLM inference for End-User Multi-Agent Systems on CPU-GPU Unified Memory Architectures](https://arxiv.org/abs/2610.03394v1)** | 2026-10-02 |  |
-| **[SafeCoEvo: Co-Evolving Safety Harnesses and Guards for LLM Agents at Test-Time](https://arxiv.org/abs/2609.36580v2)** | 2026-10-02 | 35 pages, 10 figures |
-| **[Defense-in-Depth at the Perception-Reasoning Interface of LLM-Centric Agentic UAV Swarms](https://arxiv.org/abs/2610.03319v1)** | 2026-10-02 | <details><summary>14 Pa...</summary><p>14 Pages, 7 Tables, 4 Figures</p></details> |
-| **[Multi-Task Evolution for Zero-Shot Cross-Problem Generalization using LLMs](https://arxiv.org/abs/2610.03316v1)** | 2026-10-02 |  |
-| **[Teaching LLMs to See Graphs: Unifying Text and Structural Reasoning](https://arxiv.org/abs/2605.10247v2)** | 2026-10-02 |  |
+| **[TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify](https://arxiv.org/abs/2610.06848v1)** | 2026-10-05 |  |
+| **[MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://arxiv.org/abs/2610.06830v1)** | 2026-10-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/MemPilot</p></details> |
+| **[User Misconceptions of LLM-Based Conversational Programming Assistants](https://arxiv.org/abs/2510.25662v3)** | 2026-10-05 | <details><summary>Exten...</summary><p>Extends a paper presented at the ICSE 2026 Journal Ahead Workshop (JAWs)</p></details> |
+| **[Is Escalation Worth It? On the Depth of LLM Cascades](https://arxiv.org/abs/2605.06350v2)** | 2026-10-05 | <details><summary>Subst...</summary><p>Substantially revised from v1, which was titled "Is Escalation Worth It? A Decision-Theoretic Characterization of LLM Cascades."</p></details> |
+| **[BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents](https://arxiv.org/abs/2610.06748v1)** | 2026-10-05 | <details><summary>38 pa...</summary><p>38 pages, 4 figures. Code: https://github.com/ziyan-wang98/BazaarBench; data: https://huggingface.co/BazaarBench</p></details> |
+| **[Improving Diversity in LLM Short Story Generation](https://arxiv.org/abs/2610.06729v1)** | 2026-10-05 |  |
+| **[Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs](https://arxiv.org/abs/2610.06685v1)** | 2026-10-05 |  |
+| **[LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches](https://arxiv.org/abs/2610.06647v1)** | 2026-10-05 | 16 pages, 6 figures |
+| **[Silent Dissent: LLM Agents That Yield to the Majority Still Represent Their Original Premise](https://arxiv.org/abs/2610.02702v2)** | 2026-10-05 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 tables. Supplementary material in ancillary files</p></details> |
+| **[JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications](https://arxiv.org/abs/2610.06625v1)** | 2026-10-05 | <details><summary>71 pa...</summary><p>71 pages, 2 figures, 14 tables (including appendices)</p></details> |
+| **[Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations](https://arxiv.org/abs/2605.14175v3)** | 2026-10-05 |  |
+| **[Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving](https://arxiv.org/abs/2610.06597v1)** | 2026-10-05 | <details><summary>Jiaqi...</summary><p>Jiaqi Zhao, Haodong Chen, and Jitai Hao contributed equally</p></details> |
+| **[Towards LLM Agents for Earth Observation](https://arxiv.org/abs/2504.12110v3)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings and ICML 2025 Workshop TerraBytes. Project page: https://iandrover.github.io/2025_univearth/</p></details> |
+| **[Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning](https://arxiv.org/abs/2609.09030v2)** | 2026-10-05 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables</p></details> |
+| **[Correct Verdicts, Flawed Reasoning: Structured Auditing of LLM-based Vulnerability Reasoning](https://arxiv.org/abs/2610.06366v1)** | 2026-10-05 |  |
 
