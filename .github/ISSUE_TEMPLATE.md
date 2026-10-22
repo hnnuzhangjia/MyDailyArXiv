@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zeaoji/MyDailyArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](https://arxiv.org/abs/2610.28629v1)** | 2026-10-20 |  |
-| **[TraceLite: Efficient Trace Reduction for SWE Agents via Optical Compression and Redundancy Removal](https://arxiv.org/abs/2610.28612v1)** | 2026-10-20 |  |
-| **[Evolving Agent Interfaces](https://arxiv.org/abs/2610.28601v1)** | 2026-10-20 |  |
-| **[AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589v1)** | 2026-10-20 |  |
-| **[Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation](https://arxiv.org/abs/2610.28586v1)** | 2026-10-20 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 13 tables. Project page: https://tree-shu-zhao.github.io/r2s/</p></details> |
-| **[SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images](https://arxiv.org/abs/2610.28585v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at CoRL 2026 Agentic Robotics Workshop. Project page: https://red-fairy.github.io/SceneRig/</p></details> |
-| **[Gibson Env: Real-World Perception for Embodied Agents](https://arxiv.org/abs/1808.10654v2)** | 2026-10-20 | <details><summary>Acces...</summary><p>Access the code, dataset, and project website at http://gibsonenv.stanford.edu/ . CVPR 2018 (spotlight)</p></details> |
-| **[Cache Engineering for Agents](https://arxiv.org/abs/2610.28577v1)** | 2026-10-20 |  |
-| **[OverSeer: Multi-Agent World Models Beyond What Agents See](https://arxiv.org/abs/2610.28554v1)** | 2026-10-20 |  |
-| **[ASH: Agents that Self-Hone in Long-Horizon Worlds](https://arxiv.org/abs/2605.14211v6)** | 2026-10-20 | NeurIPS 2026 |
-| **[Proof-Carrying Contracts: Commitments AI Agents Cannot Break](https://arxiv.org/abs/2610.28484v1)** | 2026-10-20 | 70 pages, 8 Figures, |
-| **[For Coding Agents, the Repository Matters](https://arxiv.org/abs/2606.28235v2)** | 2026-10-20 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables, followed by a 4-page supplement (Tables S1-S4, Figures S1-S2). v2: substantially revised and retitled; v1 was titled "Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software". Revised research questions, analysis and framing; replication package on Zenodo (doi:10.5281/zenodo.23504056)</p></details> |
-| **[Toolflation: Seller Agents Distort Tool Markets Through Spontaneous Generative Engine Optimization](https://arxiv.org/abs/2610.28454v1)** | 2026-10-20 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 9 tables. Code: https://github.com/lilv98/Toolflation. Data: https://huggingface.co/datasets/lilvjosephtang/Toolflation</p></details> |
-| **[After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents](https://arxiv.org/abs/2610.28425v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main Conference</p></details> |
-| **[A Multi-Agent Framework for Automated Machine Learning with Evidence-based Planning for Medical Image Analysis](https://arxiv.org/abs/2610.28410v1)** | 2026-10-20 |  |
+| **[Agentic World Action Models](https://arxiv.org/abs/2610.30136v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://agentic-wam.github.io/</p></details> |
+| **[World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds](https://arxiv.org/abs/2610.24061v2)** | 2026-10-21 | <details><summary>33 pa...</summary><p>33 pages, 9 figures, 7 tables</p></details> |
+| **[Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research](https://arxiv.org/abs/2610.30113v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://lab.einsia.ai/quant-arena</p></details> |
+| **[Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://arxiv.org/abs/2610.30108v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project website: https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/</p></details> |
+| **[Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting](https://arxiv.org/abs/2610.30103v1)** | 2026-10-21 | <details><summary>https...</summary><p>https://github.com/Labib1610/complexity-benchmark</p></details> |
+| **[The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages](https://arxiv.org/abs/2607.22807v2)** | 2026-10-21 |  |
+| **[Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization](https://arxiv.org/abs/2610.30074v1)** | 2026-10-21 | 24 pages, 8 figures |
+| **[Charts as Epistemic Actions for Experience-Driven Agentic Data Analysis](https://arxiv.org/abs/2610.30072v1)** | 2026-10-21 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 9 tables. Preprint</p></details> |
+| **[Does Centralized Learning Help Embodied Agents Coordinate, and When Can a Tabular Study Tell?](https://arxiv.org/abs/2601.17454v3)** | 2026-10-21 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Under peer review at AAMAS 2027</p></details> |
+| **[SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation](https://arxiv.org/abs/2610.30047v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 workshop "Grounded User Simulation for Model Evaluation and Training: Diversity, Fidelity, and Validity'' (non-archival)</p></details> |
+| **[TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043v1)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables. Project page: https://xuyicheng-zju.github.io/TARSphere/ Code: https://github.com/xuyicheng-zju/TARSphere</p></details> |
+| **[HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning](https://arxiv.org/abs/2610.30042v1)** | 2026-10-21 |  |
+| **[Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents](https://arxiv.org/abs/2610.30041v1)** | 2026-10-21 |  |
+| **[What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion](https://arxiv.org/abs/2610.30026v1)** | 2026-10-21 | 28 pages, 5 figures |
+| **[GuideEvolve: Self-Evolving Agent Framework with Expert Guidance and 3Ts Mechanisms](https://arxiv.org/abs/2610.30017v1)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 10 images/figures</p></details> |
 
 ## Drug Design
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## multi-objective optimization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LOADBench: A Large Open Analog Dataset and Benchmark for Machine Learning in IC Design](https://arxiv.org/abs/2610.21591v2)** | 2026-10-21 | <details><summary>Datas...</summary><p>Dataset available on zenodo: https://zenodo.org/records/21759759 9 pages, 6 figures, Conference: MLCAD '26: 8th ACM/IEEE International Symposium on Machine Learning for CAD, September 7 to 9, 2026, Jeju, South Korea</p></details> |
+| **[BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments](https://arxiv.org/abs/2610.29426v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Main Track</p></details> |
 | **[SliMOO: Interpretable Multi-Objective Evolutionary Search for LLM Depth Pruning](https://arxiv.org/abs/2610.27812v1)** | 2026-10-20 |  |
 | **[Jacobian Descent for Multi-Objective Optimization](https://arxiv.org/abs/2406.16232v4)** | 2026-10-19 | <details><summary>53 pa...</summary><p>53 pages, 14 figures, Accepted at NeurIPS 2026 (poster)</p></details> |
 | **[Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation](https://arxiv.org/abs/2610.25810v1)** | 2026-10-19 |  |
@@ -53,13 +55,11 @@ labels: documentation
 | **[ParetoChat: An LLM-Based Interface for Interactive Multi-Objective Optimization](https://arxiv.org/abs/2610.23062v1)** | 2026-10-16 |  |
 | **[Progressive Lower Bound Evaluation for Urban Road Renovation Scheduling](https://arxiv.org/abs/2602.15554v2)** | 2026-10-15 | <details><summary>31 pa...</summary><p>31 pages, 12 figures. Accepted manuscript of the article published in Computer-Aided Civil and Infrastructure Engineering, https://doi.org/10.1016/j.cacaie.2026.100174</p></details> |
 | **[In-Context Preference-Conditioned Pareto Set Learning from Limited Offline Data](https://arxiv.org/abs/2610.21736v1)** | 2026-10-15 |  |
-| **[LOADBench: A Large Open Analog Dataset and Benchmark for Machine Learning in IC Design](https://arxiv.org/abs/2610.21591v1)** | 2026-10-15 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, Conference: MLCAD '26: 8th ACM/IEEE International Symposium on Machine Learning for CAD, September 7 to 9, 2026, Jeju, South Korea</p></details> |
 | **[First Mathematical Runtime Analyses of Evolutionary Multitask Multi-Objective Optimization](https://arxiv.org/abs/2610.21311v1)** | 2026-10-15 |  |
 | **[When the implementation matters more than the algorithm: NSGA-II and other multi-objective optimizers in engineering design tools](https://arxiv.org/abs/2610.22397v1)** | 2026-10-14 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 5 tables. Per-run data, emulator models and analysis scripts: https://doi.org/10.5281/zenodo.23157761</p></details> |
 | **[Enabling Validation for Robust Few-Shot Recognition](https://arxiv.org/abs/2506.04713v4)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project website: https://hannawang09.github.io/projects/vest/</p></details> |
 | **[Large Language Models for Model-Based Robot Design](https://arxiv.org/abs/2609.33423v3)** | 2026-10-12 | 9 pages, 4 figures |
 | **[When Rewards Disagree: Reward Weighting for Token-Efficient Video Reasoning](https://arxiv.org/abs/2604.04415v4)** | 2026-10-12 |  |
-| **[Harmony Harness: Multi-Objective Self-Evolution of Agent Harnesses](https://arxiv.org/abs/2610.15150v1)** | 2026-10-10 |  |
 
 ## DNA
 | **Title** | **Date** | **Comment** |
@@ -83,19 +83,19 @@ labels: documentation
 ## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Weight Placement Is Not Enough: Synchronization in Multi-Node CPU Decoding of Ternary LLMs](https://arxiv.org/abs/2610.28620v1)** | 2026-10-20 | 15 pages, 9 figures |
-| **[When Do LLMs Help with Feature Selection? A Systematic Empirical Study](https://arxiv.org/abs/2610.28556v1)** | 2026-10-20 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables</p></details> |
-| **[LLMs are Brittle to Simple Code Transformations: Introducing CETBench - A Benchmark for Code-Equivalence Checking](https://arxiv.org/abs/2506.04019v2)** | 2026-10-20 | <details><summary>Publi...</summary><p>Published in ACL Findings 2026</p></details> |
-| **[DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems](https://arxiv.org/abs/2610.28522v1)** | 2026-10-20 |  |
-| **[OptionWorld: A Benchmark for Diagnosing Failures of LLMs as Long-Term Personal Assistants](https://arxiv.org/abs/2610.28491v1)** | 2026-10-20 | 31 pages, 3 figures |
-| **[When Dynamic Scaling Fails: A Scale-State Feedback Governs Recurrent-State Quantization in Linear-Attention and SSM LLMs](https://arxiv.org/abs/2610.15139v2)** | 2026-10-20 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 7 tables. NeurIPS 2026 Workshop on Long-Context Foundation Models (non-archival). Extended version: adds a cross-architecture containment comparison on Mamba-2 and corrects two claims in the workshop version. v2 discusses three concurrent works and narrows two claims. Code and project page: https://avalon-s.github.io/dynamic-scaling-fails/</p></details> |
-| **[Abstract Compression of Conversational Audio Context for LLM-based ASR](https://arxiv.org/abs/2603.26246v2)** | 2026-10-20 | <details><summary>7 pag...</summary><p>7 pages; accepted to IEEE SLT 2026</p></details> |
-| **[After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents](https://arxiv.org/abs/2610.28425v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Main Conference</p></details> |
-| **[MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems](https://arxiv.org/abs/2610.28397v1)** | 2026-10-20 |  |
-| **[Disclosure Begets Disclosure: A Self-Reinforcing Privacy Loop in LLM Agents with Persistent Memory](https://arxiv.org/abs/2610.28315v1)** | 2026-10-20 |  |
-| **[Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection](https://arxiv.org/abs/2605.23175v2)** | 2026-10-20 |  |
-| **[A Global View of How LLMs Value Human Time](https://arxiv.org/abs/2610.18515v3)** | 2026-10-20 |  |
-| **[Local Inference of LLMs on Long Contexts: A Data Systems Perspective](https://arxiv.org/abs/2610.28223v1)** | 2026-10-20 |  |
-| **[From Outcomes to Components: A Counterfactual Evaluation Framework for LLM-Proposed Repairs](https://arxiv.org/abs/2610.26650v2)** | 2026-10-20 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 15 tables. Code and data to be released with the camera-ready version</p></details> |
-| **[Foreword: Pre-Generation Prediction and Characterisation of LLM Test Failures using the Jacobian Lens](https://arxiv.org/abs/2610.28187v1)** | 2026-10-20 |  |
+| **[LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](https://arxiv.org/abs/2610.30132v1)** | 2026-10-21 | <details><summary>Code ...</summary><p>Code and data are available at https://github.com/zhennan1/LongZero</p></details> |
+| **[Environment Duels: A Microcosm of LLM Co-Evolution](https://arxiv.org/abs/2610.30116v1)** | 2026-10-21 |  |
+| **[Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research](https://arxiv.org/abs/2610.30113v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://lab.einsia.ai/quant-arena</p></details> |
+| **[Circuits of LLM Classifiers](https://arxiv.org/abs/2610.30076v1)** | 2026-10-21 |  |
+| **[The Hitchhiker's Guide to Program Analysis, Part III: Mostly Harmless LLMs](https://arxiv.org/abs/2606.15122v2)** | 2026-10-21 |  |
+| **[From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents](https://arxiv.org/abs/2605.15104v3)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR). The final version will appear here: https://openreview.net/forum?id=69MeTLVKze</p></details> |
+| **[An important Bottleneck in LLM Optimizers: Principle-Level Local Optima](https://arxiv.org/abs/2610.24291v2)** | 2026-10-21 | <details><summary>10 pa...</summary><p>10 pages under review</p></details> |
+| **[EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping](https://arxiv.org/abs/2610.29999v1)** | 2026-10-21 | <details><summary>27 pa...</summary><p>27 pages. Code: https://github.com/LiChengxi666/EPIC</p></details> |
+| **[HiddenLens: A Multi-Layer LLM Framework for Detecting and Resolving Hidden Assumptions in Software Requirements](https://arxiv.org/abs/2610.29996v1)** | 2026-10-21 | <details><summary>24 pa...</summary><p>24 pages, 14 figures, 10 tables</p></details> |
+| **[FaultGene: LLM-Assisted Fault-Augmented Test Generation for Hardware-in-the-Loop Validation of Autonomous Driving Systems](https://arxiv.org/abs/2610.29969v1)** | 2026-10-21 |  |
+| **[Commit or Abstain? System One Decision Models, LLMs, and Missing Legal Authority](https://arxiv.org/abs/2610.29961v1)** | 2026-10-21 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 4 tables. Under review. Code, data, and model outputs: https://github.com/mmikaildemir/commit-or-abstain</p></details> |
+| **[Privacy in Context Is Being Overlooked in the Age of General-Purpose LLMs](https://arxiv.org/abs/2610.29925v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at Personalization in the Era of Large Foundation Models Workshop @ AAAI 2026</p></details> |
+| **[Unintended Side Effects of Value Training in LLMs](https://arxiv.org/abs/2610.29922v1)** | 2026-10-21 | <details><summary>37 pa...</summary><p>37 pages, 31 figures, 26 tables</p></details> |
+| **[Asking a Multimodal LLM Whether Someone Fell: Zero-Shot Screening of Low-Resolution Thermal Video in a Laboratory and an Occupied Home](https://arxiv.org/abs/2610.29913v1)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 6 figures. Data: https://senecta.ai/research/thermal-fall-llm-data.zip</p></details> |
+| **[RelAgent: LLM Agents as Data Scientists for Relational Learning](https://arxiv.org/abs/2605.07840v2)** | 2026-10-21 |  |
 
